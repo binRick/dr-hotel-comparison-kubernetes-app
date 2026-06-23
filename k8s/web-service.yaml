@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: dr-web
+  namespace: dr
+  labels:
+    app: dr-web
+spec:
+  # Single entry point for the whole app (frontend + /api). NodePort works on
+  # any cluster (k3s/kind/minikube). On `mia`, the ximg nginx reverse-proxies
+  # dr.ximg.app → host.docker.internal:30080.
+  type: NodePort
+  selector:
+    app: dr-web
+  ports:
+    - name: http
+      port: 80
+      targetPort: http
+      nodePort: 30080

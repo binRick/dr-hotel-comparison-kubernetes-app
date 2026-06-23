@@ -1,0 +1,12 @@
+# Root build context is used by web/Dockerfile (needs frontend/ + web/ only).
+.git
+.github
+backend
+k8s
+deploy
+scripts
+docs
+*.md
+Makefile
+.gitignore
+.DS_Store

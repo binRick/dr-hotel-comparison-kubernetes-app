@@ -1,0 +1,3648 @@
+{
+  "schemaVersion": 1,
+  "areas": [
+    {
+      "id": "punta-cana",
+      "name": "Punta Cana & Bavaro",
+      "region": "East Coast",
+      "nearest_airport": "PUJ — Punta Cana Intl",
+      "airport_transfer_min": 25,
+      "summary": "The Caribbean's all-inclusive capital: a 30-mile ribbon of palm-lined white sand engineered for stress-free, sun-soaked resort holidays.",
+      "description": "Punta Cana and neighboring Bavaro sit on the easternmost tip of the Dominican Republic in La Altagracia province, fronting a near-continuous stretch of powder-white beach where the warm turquoise Caribbean meets the Atlantic. Bavaro Beach itself runs roughly 12 miles between Cabeza de Toro and Macao, lined wall-to-wall with all-inclusive mega-resorts, and is fringed by a protective offshore coral reef that keeps the water calm and shallow — ideal for swimming and families. This is the Dominican Republic's biggest and most developed tourism hub, purpose-built for vacationers who want everything (food, drinks, pools, watersports, entertainment) bundled and walk-out-the-door access to the sand.\n\nThe area suits beach lovers, families, couples, honeymooners, and groups chasing an easy, low-friction tropical getaway rather than independent cultural exploration. Beyond the beach, the headline attraction is Scape Park at Cap Cana, home to the photogenic Hoyo Azul cenote (a turquoise natural sinkhole), ziplines, and caves. Popular day trips include catamaran sails to the protected white-sand paradise of Isla Saona (in Cotubanama National Park), the wild and surf-friendly Macao Beach, the upscale Juanillo Beach and marina at Cap Cana, and the freshwater lagoons of the Indigenous Eyes Ecological Reserve. Nightlife centers on resort shows, beach bars, and the famous Coco Bongo club.\n\nGetting there is exceptionally easy: Punta Cana International (PUJ) — the busiest airport in the country, with direct flights from across North America and Europe — is only about 20 km from the Bavaro hotel zone, a 20–40 minute drive depending on traffic and which resort you're heading to. The trade-off for all this convenience is authenticity: the resort corridor feels manicured and international, local Dominican culture is thin on the ground, and the east-facing beaches are the most exposed in the country to seasonal sargassum seaweed.",
+      "vibe": "All-inclusive beach resort paradise",
+      "best_for": [
+        "Families",
+        "Couples & honeymooners",
+        "Beach lovers",
+        "First-time Caribbean visitors",
+        "Groups & all-inclusive seekers"
+      ],
+      "scores": {
+        "beach": 9,
+        "nightlife": 7,
+        "family": 9,
+        "value": 6,
+        "nature": 6,
+        "culture": 3,
+        "safety": 8,
+        "walkability": 3
+      },
+      "sargassum_risk": "High",
+      "avg_hotel_price_usd": 300,
+      "english_prevalence": "High",
+      "best_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "lat": 18.6667,
+      "lng": -68.4,
+      "highlights": [
+        "Bavaro Beach — 12 miles of calm, reef-protected white sand",
+        "Hoyo Azul cenote & Scape Park at Cap Cana (ziplines, caves)",
+        "Isla Saona day trip by catamaran (Cotubanama National Park)",
+        "Macao Beach — wild, scenic, the area's main surf spot",
+        "Juanillo Beach & Cap Cana Marina (upscale, sargassum-sheltered)",
+        "Indigenous Eyes Ecological Reserve — 12 freshwater lagoons",
+        "Coco Bongo Punta Cana nightclub & show",
+        "Catamaran party cruises and the natural pools off the coast"
+      ],
+      "pros": [
+        "Stunning, swimmable reef-protected beaches with reliably warm, calm water",
+        "Huge range of all-inclusive resorts for every budget and family-friendly amenities",
+        "Easiest access in the DR — busy international airport just 20–40 min away",
+        "Very high English prevalence and strong, tourist-focused safety/security",
+        "Great base for day trips (Saona, Macao, Scape Park)"
+      ],
+      "cons": [
+        "High sargassum/seaweed risk on east-facing beaches, worst June–August",
+        "Little authentic Dominican culture — feels manicured and international",
+        "Low walkability; you rely on resort shuttles, taxis, or tours to get around",
+        "Off-resort prices and excursions can feel overpriced; tourist-trap pressure",
+        "Peak-season (Dec–Mar) and holiday rates climb steeply"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Palm trees and white sand along Playa Bavaro, Punta Cana, with calm turquoise Caribbean water"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Caribbean_Sunset%2C_Bavaro%2C_Dominican_Republic_%2814702746147%29.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Joe deSousa",
+          "license": "CC0 1.0",
+          "alt": "Caribbean sunset over the beach at Bavaro, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Playa_Bavaro.JPG",
+          "source": "Wikimedia Commons",
+          "credit": "Andreas Volkmer",
+          "license": "CC BY-SA 3.0",
+          "alt": "Playa Bavaro beach fronting a resort in Punta Cana, Dominican Republic"
+        }
+      ],
+      "whale_season": "N/A — humpback whale watching is in Samana Bay (north coast), not Punta Cana"
+    },
+    {
+      "id": "cap-cana",
+      "name": "Cap Cana",
+      "region": "East Coast",
+      "nearest_airport": "PUJ — Punta Cana Intl",
+      "airport_transfer_min": 15,
+      "summary": "A polished, gated luxury enclave south of Punta Cana with the area's most sheltered beach, a glamorous marina, and a world-class Jack Nicklaus golf course.",
+      "description": "Cap Cana is a 30,000-acre master-planned, gated community on the Dominican Republic's far east coast, just south of Punta Cana and only about a 10-15 minute drive from Punta Cana International Airport (PUJ). Built around soaring coral cliffs, tropical forest, the Caribbean Sea, and a yacht-filled marina, it's the most upscale corner of the Punta Cana region, designed as a self-contained resort destination rather than a town with everyday local life.\n\nIts crown jewel is Juanillo Beach (Playa Juanillo), a wide arc of white sand and calm turquoise water lined with coconut palms. Because it sits in a protected cove and is shielded by an offshore boom, it's generally one of the least sargassum-affected and best-groomed beaches in the area. The beach is technically public but reached through the gated community; non-resort visitors typically pay a roughly USD 20-25 fee that doubles as a food-and-beverage credit at the Juanillo beach club. Marina Cap Cana anchors the dining and nightlife scene with oceanfront restaurants, sportfishing, yacht charters, and Api Beach, while Punta Espada is a Jack Nicklaus Signature course repeatedly ranked the best in the Caribbean.\n\nCap Cana suits luxury travelers, honeymooners, golfers, yacht and fishing enthusiasts, and families who want top-tier all-inclusive resorts (Hyatt Ziva and Zilara, Secrets, Sanctuary, Eden Roc, the St. Regis) in a secure, manicured setting. It is not the place for budget travelers, backpackers, or those seeking authentic local culture and street life. Getting there is easy: PUJ is one of the busiest airports in the Caribbean with abundant nonstop flights from North America and Europe, and the resort is a short, well-signed transfer away.",
+      "vibe": "Upscale, gated, polished, resort-luxe",
+      "best_for": [
+        "Luxury travelers",
+        "Honeymooners",
+        "Golfers",
+        "Families (high-end)",
+        "Yacht and fishing enthusiasts"
+      ],
+      "scores": {
+        "beach": 9,
+        "nightlife": 5,
+        "family": 8,
+        "value": 4,
+        "nature": 7,
+        "culture": 3,
+        "safety": 9,
+        "walkability": 3
+      },
+      "sargassum_risk": "Moderate",
+      "avg_hotel_price_usd": 520,
+      "english_prevalence": "High",
+      "best_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "whale_season": "N/A — humpbacks are seen in Samaná Bay (mid-Jan to mid-Mar), a separate region on the northeast coast",
+      "lat": 18.5072,
+      "lng": -68.3928,
+      "highlights": [
+        "Juanillo Beach (Playa Juanillo) — sheltered white-sand cove with a beach club",
+        "Marina Cap Cana — yachts, oceanfront dining, sportfishing and Api Beach",
+        "Punta Espada Golf Club — Jack Nicklaus Signature course, #1 in the Caribbean",
+        "Scape Park — ziplines, caves, horseback riding and cultural attractions",
+        "Hoyo Azul — turquoise cenote at the base of a cliff inside Scape Park",
+        "Deep-sea fishing and catamaran charters from the marina",
+        "Day trip to Saona Island in the Cotubanamá National Park",
+        "Eden Roc / Hyatt / Secrets resort spas and beach clubs"
+      ],
+      "pros": [
+        "One of the area's most sheltered, well-groomed beaches with relatively lower sargassum",
+        "Very safe, secure gated environment with manicured grounds",
+        "Cluster of top-tier luxury and all-inclusive resorts",
+        "World-class golf (Punta Espada) and a glamorous yacht marina",
+        "Just 10-15 minutes from Punta Cana International Airport"
+      ],
+      "cons": [
+        "Expensive; poor value compared with other DR destinations",
+        "Almost no authentic local culture or street life inside the gates",
+        "Not walkable — you need a car, golf cart, or taxi to get around",
+        "Public beach access requires a paid entry fee for non-resort guests",
+        "Sargassum can still wash up in peak season (roughly May-August)"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cap_Cana.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Caribbean coastline at Cap Cana, Dominican Republic, photographed December 2024"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Uirá Porã",
+          "license": "CC BY-SA 2.0",
+          "alt": "Yachts moored at Marina Cap Cana, Punta Cana, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Capcana.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Rafael Fernandez de Castro",
+          "license": "Public Domain",
+          "alt": "View of the Cap Cana Marina, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Punta_Cana_Beach_01.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "NoonIcarus",
+          "license": "CC BY-SA 3.0",
+          "alt": "White-sand Caribbean beach in the Punta Cana / Cap Cana area, Dominican Republic"
+        }
+      ]
+    },
+    {
+      "id": "puerto-plata",
+      "name": "Puerto Plata, Sosua & Cabarete",
+      "region": "North Coast",
+      "nearest_airport": "POP — Gregorio Luperón Intl",
+      "airport_transfer_min": 25,
+      "summary": "The Dominican Republic's adventure-and-watersports coast, pairing kitesurf-mecca Cabarete with old-town Puerto Plata, a mountain cable car, and waterfall canyoning.",
+      "description": "The North Coast stretches along the Atlantic from the historic port city of Puerto Plata east through the dive-and-beach town of Sosúa to Cabarete, the Caribbean's kitesurfing and windsurfing capital. Backed by the green slopes of Mount Isabel de Torres and cooled by steady trade winds, the region feels more rugged and active than the polished mega-resorts of the south. Puerto Plata itself blends faded Victorian architecture, the 16th-century Fortaleza San Felipe, an amber museum, and a long seaside malecón, while the gated Playa Dorada complex concentrates the area's all-inclusive resorts and golf.\n\nThe beaches here are varied rather than uniformly postcard-perfect: Playa Dorada and Costa Dorada offer calm golden sand for families, Sosúa Bay is a sheltered crescent prized for snorkeling and diving, Playa Encuentro is the coast's premier surf break, and Cabarete's wind-raked bay draws kiters and windsurfers from around the world. Because the coast faces north and northwest, its waters are generally clearer of the sargassum seaweed that plagues the country's eastern and southeastern shores.\n\nThe area suits active travelers, watersports enthusiasts, and budget-conscious visitors who want culture and adventure alongside beach time, more than those seeking a purely manicured luxury bubble. Getting there is easy: Gregorio Luperón International Airport (POP) sits right on the coast between the towns, roughly 10 minutes from Playa Dorada and Sosúa and about 30 minutes from Cabarete, with direct flights from North America and Europe.",
+      "vibe": "Active, windswept, adventurous, laid-back",
+      "best_for": [
+        "Kitesurfers & windsurfers",
+        "Adventure travelers",
+        "Surfers",
+        "Budget travelers",
+        "Divers",
+        "Active families"
+      ],
+      "scores": {
+        "beach": 7,
+        "nightlife": 6,
+        "family": 7,
+        "value": 8,
+        "nature": 8,
+        "culture": 7,
+        "safety": 6,
+        "walkability": 5
+      },
+      "sargassum_risk": "Low",
+      "avg_hotel_price_usd": 150,
+      "english_prevalence": "Medium",
+      "best_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "whale_season": "Mid-Jan to late Mar — humpbacks in Samaná Bay (2-3 hr day trip)",
+      "lat": 19.7833,
+      "lng": -70.5167,
+      "highlights": [
+        "Cabarete Bay & Kite Beach — Caribbean kitesurfing/windsurfing capital",
+        "Mount Isabel de Torres cable car — Caribbean's only aerial tramway to a Christ the Redeemer statue and botanical garden",
+        "27 Charcos de Damajagua — canyoning, jumping and sliding down 27 waterfalls",
+        "Sosúa Bay — sheltered snorkeling and scuba diving",
+        "Playa Encuentro — the North Coast's top surf break",
+        "Fortaleza San Felipe & Puerto Plata old town — 16th-century fort, malecón and Victorian architecture",
+        "Amber Museum and rum/cigar/chocolate heritage tours",
+        "Day trip to Samaná Bay for humpback whale watching (Jan-Mar)"
+      ],
+      "pros": [
+        "Excellent, reliable wind for kitesurfing and windsurfing plus genuine surf breaks",
+        "Much lower sargassum risk than the east/southeast coast",
+        "Strong value — adventure, culture and beaches at lower prices than Punta Cana",
+        "Real towns with history, nightlife and local life, not just a resort strip",
+        "Lush mountain-and-waterfall scenery for hiking and canyoning"
+      ],
+      "cons": [
+        "Atlantic surf and currents make many beaches less calm than the south coast",
+        "More humid and rainy than the south, with occasional rough/windy days",
+        "Petty crime and hustling mean more caution needed than in gated resort zones",
+        "Spread out and car/taxi-dependent; limited walkability between towns",
+        "Fewer ultra-luxury options than Punta Cana or Cap Cana"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kitebeach_at_Cabarete.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Kitebeach_at_Cabarete.jpg",
+          "credit": "Aroom",
+          "license": "CC BY-SA 2.5",
+          "alt": "Kitesurfers and colorful kites over the water at Kite Beach in Cabarete, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Playa_Dorada_-_panoramio_%281%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_panoramio_(1).jpg",
+          "credit": "Fanny S Forsdik",
+          "license": "CC BY-SA 3.0",
+          "alt": "Golden sand and calm turquoise water at Playa Dorada beach near Puerto Plata"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Playa_Dorado_Beach_to_Mt_Isabel_de_Torres_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Dorado_Beach_to_Mt_Isabel_de_Torres_-_panoramio.jpg",
+          "credit": "Scotia",
+          "license": "CC BY 3.0",
+          "alt": "View from Playa Dorada beach toward green Mount Isabel de Torres above Puerto Plata"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Teleferik_-_panoramio_%281%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Teleferik_-_panoramio_(1).jpg",
+          "credit": "aachim3",
+          "license": "CC BY 3.0",
+          "alt": "Cable car of the Teleférico aerial tramway climbing Mount Isabel de Torres in Puerto Plata"
+        }
+      ]
+    },
+    {
+      "id": "samana",
+      "name": "Samana & Las Terrenas",
+      "region": "Northeast Peninsula",
+      "nearest_airport": "AZS — Samana El Catey Intl",
+      "airport_transfer_min": 35,
+      "summary": "A lush, mountainous Caribbean peninsula where humpback whales breed in winter, jungle waterfalls tumble to swimmable pools, and a French-Italian beach town fronts some of the country's most beautiful sand.",
+      "description": "The Samana Peninsula juts off the Dominican Republic's northeast coast, a green spine of coconut-covered hills and palm-backed beaches between Samana Bay and the Atlantic. Las Terrenas, on the north shore, is its lively heart: a former fishing village transformed by decades of European settlement into a walkable, cosmopolitan resort town where nearly half the population is expat (French, Italian, German and others). Across the peninsula sit laid-back Las Galeras and the bayside town of Santa Barbara de Samana, the launch point for the famous winter whale-watching trips.\n\nThe area is best known for nature and atmosphere rather than mega-resorts. Samana Bay hosts thousands of North Atlantic humpback whales from mid-January to late March, the 40-meter El Limon waterfall draws hikers and horseback riders, and Cayo Levantado (\"Bacardi Island\") offers postcard-perfect day trips. The beaches are exceptional: Playa Rincon near Las Galeras is regularly ranked among the Caribbean's finest, while Playa Bonita, Playa Coson and the town beach at Las Terrenas deliver soft sand, calm reef-protected water and excellent French-Italian dining and beach bars.\n\nIt suits travelers who want a more authentic, boutique and outdoorsy alternative to Punta Cana — couples, foodies, nature lovers, divers and longer-stay/digital-nomad visitors. Getting there is easiest via Samana El Catey (AZS), roughly 35 minutes from Las Terrenas; many visitors also drive about 2 to 2.5 hours from Santo Domingo's airports (SDQ) on the modern toll highway, or arrive on day trips from Punta Cana. A car or scooter is handy, as attractions are spread across the peninsula.",
+      "vibe": "Lush, boutique, European-flavored beach escape",
+      "best_for": [
+        "Couples",
+        "Nature lovers",
+        "Foodies",
+        "Whale watchers",
+        "Digital nomads",
+        "Adventure travelers"
+      ],
+      "scores": {
+        "beach": 9,
+        "nightlife": 5,
+        "family": 7,
+        "value": 6,
+        "nature": 10,
+        "culture": 6,
+        "safety": 8,
+        "walkability": 6
+      },
+      "sargassum_risk": "Low",
+      "avg_hotel_price_usd": 160,
+      "english_prevalence": "Medium",
+      "best_months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "July",
+        "August",
+        "December"
+      ],
+      "whale_season": "Mid-Jan to end of Mar (official 2026 season Jan 15-Mar 31) — humpbacks breeding in Samana Bay; February is peak",
+      "lat": 19.3088,
+      "lng": -69.5403,
+      "highlights": [
+        "Humpback whale watching in Samana Bay (Jan-Mar)",
+        "El Limon Waterfall (40m cascade, hike or horseback)",
+        "Playa Rincon near Las Galeras",
+        "Cayo Levantado (Bacardi Island)",
+        "Playa Bonita and Playa Coson beaches",
+        "Las Galeras and Playa Fronton",
+        "Los Haitises National Park (mangroves, caves, birdlife)",
+        "Las Terrenas town beach, dining and Pueblo de los Pescadores"
+      ],
+      "pros": [
+        "World-class whale watching and lush jungle scenery found nowhere else in the DR",
+        "Some of the Caribbean's most beautiful, uncrowded beaches (Playa Rincon, Coson, Bonita)",
+        "Strong French-Italian food scene and walkable, characterful town center",
+        "Low sargassum risk compared with the east/southeast coast",
+        "Safe, relaxed atmosphere with a large established expat community"
+      ],
+      "cons": [
+        "More limited international flight options into AZS; many arrive via long transfers from Santo Domingo",
+        "Fewer big all-inclusives and limited nightlife versus Punta Cana",
+        "English is less widely spoken than Spanish, French or Italian",
+        "Attractions are spread out, so a car or scooter is needed to explore",
+        "Rainy/sargassum-prone stretches in late summer and pricey peak-season (Dec) rates"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Las_Terrenas_beach_7.JPG",
+          "source": "Wikimedia Commons",
+          "credit": "Captain-tucker",
+          "license": "CC BY-SA 3.0",
+          "alt": "Palm-fringed sandy beach at Las Terrenas, Samana Peninsula, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Wasserfall_El_Lim%C3%B3n.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "HendrikLorenzBraunschweig",
+          "license": "CC BY-SA 4.0",
+          "alt": "El Limon waterfall cascading into a green jungle pool near Las Terrenas, Samana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Las-Terrenas.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "UR3IRS",
+          "license": "CC BY-SA 3.0",
+          "alt": "Coastal landscape of Las Terrenas, Samana, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cayo_Levantado_%28Saman%C3%A1%29_Dominican_Republic_%2816168312283%29.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Jorge Brazil",
+          "license": "CC BY 2.0",
+          "alt": "White-sand palm-lined beach on Cayo Levantado island in Samana Bay"
+        }
+      ]
+    },
+    {
+      "id": "la-romana",
+      "name": "La Romana & Bayahibe",
+      "region": "Southeast",
+      "nearest_airport": "LRM — La Romana Intl",
+      "airport_transfer_min": 20,
+      "summary": "A laid-back southeastern beach base with Blue Flag sands, the Caribbean's best-protected coast against seaweed, and boat rides to picture-perfect Saona and Catalina islands.",
+      "description": "La Romana and the neighboring fishing village of Bayahibe sit on the Dominican Republic's southeast coast, in La Altagracia Province along the Caribbean Sea. The compact zone bundles three distinct experiences: working-town La Romana (home to its eponymous international airport, LRM), the exclusive 7,000-acre Casa de Campo megaresort with its three championship golf courses and the cliff-top Mediterranean-style artisan village of Altos de Chavón, and the relaxed beach hamlet of Bayahibe with its all-inclusive resort strip around Playa Dominicus. It is the gateway to Cotubanamá National Park (Parque Nacional del Este) and the two most famous offshore day trips in the country.\n\nBayahibe's beaches are a genuine highlight: Playa Dominicus holds Blue Flag status and the old fishing-village beach has soft white sand and calm, clear, swimmable water. Crucially, the bay's geography and active beach management keep it roughly 97-99 percent sargassum-free even in bad seaweed years, making it one of the few Caribbean spots that reliably dodges the problem that plagues nearby Punta Cana. From Bayahibe's harbor, catamarans and speedboats run to Saona Island (palm-fringed beaches, starfish-filled natural pools and mangroves) and Catalina Island, a top snorkeling and scuba-diving site with a wall dive and shallow reef aquarium.\n\nThe area suits travelers who want a quieter, more grounded alternative to Punta Cana: couples, divers and snorkelers, families wanting calm water, golfers, and culture-curious visitors drawn to Altos de Chavón's amphitheater, galleries and amber/larimar museum. Getting there is easy — LRM airport is only about 20 minutes from Bayahibe and 5-10 minutes from Casa de Campo, and Punta Cana International (PUJ) is roughly a 60-75 minute drive for those flying into the busier hub. Santo Domingo is about two hours west.",
+      "vibe": "Relaxed, island-gateway, low-key Caribbean",
+      "best_for": [
+        "Couples",
+        "Divers and snorkelers",
+        "Families",
+        "Golfers",
+        "Island-hoppers",
+        "Culture seekers"
+      ],
+      "scores": {
+        "beach": 8,
+        "nightlife": 4,
+        "family": 8,
+        "value": 7,
+        "nature": 8,
+        "culture": 6,
+        "safety": 7,
+        "walkability": 4
+      },
+      "sargassum_risk": "Low",
+      "avg_hotel_price_usd": 185,
+      "english_prevalence": "Medium",
+      "best_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "lat": 18.3539,
+      "lng": -68.8369,
+      "whale_season": "N/A — humpback whale watching is in Samaná Bay on the northeast coast, roughly mid-January to mid-March",
+      "highlights": [
+        "Saona Island day trip — palm-fringed beaches, natural starfish pools and mangroves in Cotubanamá National Park",
+        "Catalina Island — snorkeling and scuba diving at the Wall and Aquarium reef sites",
+        "Altos de Chavón — replica 16th-century Mediterranean village with a 5,000-seat amphitheater, galleries and the Chavón River viewpoint",
+        "Cotubanamá National Park (Parque Nacional del Este) — caves, cenotes, Taíno petroglyphs and jungle trails",
+        "Casa de Campo — luxury resort with three top-ranked golf courses, marina and beaches",
+        "Playa Dominicus — Blue Flag beach with calm, clear water",
+        "Bayahibe village — colorful fishing harbor, dive shops and seafront restaurants",
+        "Scuba diving on reefs and shipwrecks including the St. George wreck"
+      ],
+      "pros": [
+        "One of the lowest sargassum/seaweed risks in the Caribbean — beaches stay clear when Punta Cana struggles",
+        "Best base in the country for diving, snorkeling and Saona/Catalina island excursions",
+        "Calmer and less crowded than Punta Cana, with a real Dominican village feel in Bayahibe",
+        "Genuine cultural draw at Altos de Chavón, unusual for a beach destination",
+        "Very short, easy airport transfer from LRM"
+      ],
+      "cons": [
+        "Limited nightlife and walkable town life — evenings are quiet outside the resorts",
+        "LRM airport has few direct international flights, so many travelers route through Punta Cana (PUJ) instead",
+        "Beaches and attractions are spread out; you'll need taxis, tours or a rental car",
+        "Popular island tours (especially Saona) can feel crowded and commercialized in high season",
+        "Fewer dining and shopping options than larger resort hubs"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Atardecer_bayahibe.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Cochoncarlos",
+          "license": "CC BY-SA 4.0",
+          "alt": "Sunset over the calm Caribbean water and palm-lined shore at Bayahibe, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bayahibe_Village.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Travelguideworldwide",
+          "license": "CC BY-SA 4.0",
+          "alt": "Colorful fishing village and harbor at Bayahibe with boats moored on turquoise water"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Saona-playa.JPG",
+          "source": "Wikimedia Commons",
+          "credit": "Mihai mad",
+          "license": "CC BY-SA 3.0",
+          "alt": "White-sand beach with coconut palms and turquoise sea on Saona Island near Bayahibe"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Altos_de_Chav%C3%B3n%2C_la_Romana%2C_Dominican_Republic--_Picturesque_Chavon_River_With_Mountains.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Richie Diesterheft",
+          "license": "CC BY 2.0",
+          "alt": "View of the Chavón River and green hills from the Altos de Chavón Mediterranean-style village near La Romana"
+        }
+      ]
+    },
+    {
+      "id": "santo-domingo",
+      "name": "Santo Domingo",
+      "region": "Capital / South",
+      "nearest_airport": "SDQ — Las Américas Intl",
+      "airport_transfer_min": 35,
+      "summary": "The Americas' oldest European city — a buzzing capital where 500-year-old cobblestone streets meet Caribbean street life, not a beach resort.",
+      "description": "Santo Domingo is the capital of the Dominican Republic and the largest metropolitan area in the Caribbean, sitting on the country's south coast at the mouth of the Ozama River where it meets the Caribbean Sea. Its heart is the Zona Colonial (Ciudad Colonial), a UNESCO World Heritage site and the oldest permanent European settlement in the Americas — founded in 1498. The compact, walkable colonial quarter packs in the first cathedral, first paved street, first fortress and first hospital of the New World within roughly eleven blocks of cobblestone and Spanish-baroque architecture.\n\nThis is a history, food and culture destination rather than a beach holiday. Travelers come for the Catedral Primada de América, the Alcázar de Colón, Calle Las Damas and Fortaleza Ozama, the lively Parque Colón and El Conde pedestrian street, plus the seaside Malecón (Av. George Washington) for sunset strolls, nightlife and merengue. It suits culture seekers, history buffs, city-break and solo travelers, foodies and digital nomads more than sun-and-sand seekers.\n\nThe city has no real swimming beaches of its own — the closest are Boca Chica and Juan Dolio, roughly 30-50 minutes east, which can suffer seaweed in summer. Getting there is easy: Las Américas International Airport (SDQ) is about 28 km east, a 30-45 minute drive via the Autopista Las Américas, and the city has a clean, cheap metro plus reliable Uber. The Zona Colonial is patrolled by dedicated tourist police (CESTUR) and is very pleasant on foot by day, though it quiets down after dark.",
+      "vibe": "Historic, urban, cultural, lively",
+      "best_for": [
+        "History buffs",
+        "Culture seekers",
+        "City-break travelers",
+        "Foodies",
+        "Solo travelers",
+        "Digital nomads"
+      ],
+      "scores": {
+        "beach": 2,
+        "nightlife": 8,
+        "family": 6,
+        "value": 8,
+        "nature": 4,
+        "culture": 10,
+        "safety": 6,
+        "walkability": 8
+      },
+      "sargassum_risk": "Moderate",
+      "avg_hotel_price_usd": 100,
+      "english_prevalence": "Medium",
+      "best_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "lat": 18.473,
+      "lng": -69.8847,
+      "whale_season": "N/A — humpback whales are seen in Samaná Bay (far north), not Santo Domingo",
+      "highlights": [
+        "Catedral Primada de América — the oldest cathedral in the Americas (begun 1504)",
+        "Alcázar de Colón — Diego Columbus's palace, now a museum",
+        "Calle Las Damas — the first paved street in the New World",
+        "Fortaleza Ozama — 1502 Spanish fort with Ozama River views",
+        "Parque Colón & El Conde pedestrian street in the Zona Colonial",
+        "Malecón (Av. George Washington) seafront boulevard",
+        "Los Tres Ojos National Park — limestone caverns with turquoise cenotes",
+        "Faro a Colón (Columbus Lighthouse) monument and museum"
+      ],
+      "pros": [
+        "Unmatched living history — the oldest European city in the Americas, all UNESCO-listed",
+        "Compact and walkable colonial core with cafés, bars and restaurants",
+        "Strong value: good hotels and food cost far less than beach resort zones",
+        "Authentic Dominican city life, music and cuisine, not a sanitized resort bubble",
+        "Easy access from SDQ airport, plus cheap metro and Uber"
+      ],
+      "cons": [
+        "Not a beach destination — nearest swimmable beaches are 30-50 min away",
+        "Big-city issues: pickpocketing, traffic and noise; stay alert and avoid quiet streets at night",
+        "Zona Colonial empties after ~6pm and feels less safe to wander",
+        "Hot and humid, especially May-October, and within the June-November hurricane belt",
+        "Some colonial sites have been affected by ongoing restoration works"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bas%C3%ADlica_Menor_de_Santa_Mar%C3%ADa_CCSD_07_2017_4676.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+          "license": "CC BY-SA 4.0",
+          "alt": "Front facade of the Catedral Primada de América (Basílica Menor de Santa María) in the Zona Colonial, Santo Domingo"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fortaleza_Ozama_CCSD_11_2017_7145.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+          "license": "CC BY-SA 4.0",
+          "alt": "Fortaleza Ozama, the 1502 Spanish fortress overlooking the Ozama River in Santo Domingo's Colonial City"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Puerta_del_Conde_CCSD_09_2018_1629.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+          "license": "CC BY-SA 4.0",
+          "alt": "Puerta del Conde, the historic fortified gate at the entrance to the Zona Colonial in Santo Domingo"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Obelisco_Santo_Domingo.jpg",
+          "source": "Wikimedia Commons",
+          "credit": "Mercedes (Flickr)",
+          "license": "CC BY 2.0",
+          "alt": "The Obelisk on the Malecón (Avenida George Washington) seafront in Santo Domingo"
+        }
+      ]
+    },
+    {
+      "id": "barahona",
+      "name": "Barahona",
+      "region": "Southwest",
+      "nearest_airport": "SDQ — Las Américas Intl (Santo Domingo)",
+      "airport_transfer_min": 195,
+      "summary": "The Dominican Republic's wild, undiscovered southwest, home to the impossibly pristine Bahía de las Águilas and the world's only larimar mines.",
+      "description": "Barahona is the gateway to the Dominican Republic's rugged southwest, a province nicknamed the \"Pearl of the South\" where the Sierra de Bahoruco mountains plunge straight into the Caribbean. This is off-the-beaten-path DR: dramatic pebble-and-sand coves backed by cliffs, cold mountain rivers spilling onto the beach, arid cactus valleys, and a salt lake below sea level. It is one of the country's leading ecotourism hubs and feels worlds away from the all-inclusive resort strips of the east.\n\nThe region's crown jewel is Bahía de las Águilas, a roughly 8 km stretch of undeveloped white sand and crystalline turquoise water inside Jaragua National Park (part of a UNESCO biosphere reserve), reached only by 4x4 or boat from Cabo Rojo. Barahona is also the only place on Earth where larimar — the rare sky-blue gemstone — is mined, up in the Bahoruco highlands above La Ciénaga. Other draws include the San Rafael and Los Patos river-fed beaches, Lago Enriquillo (the Caribbean's largest lake, hypersaline and home to crocodiles and iguanas), and a scenic coastal highway south of town.\n\nIt suits adventurous travelers, nature lovers, road-trippers and photographers willing to trade resort comforts for raw scenery and authentic small-town Dominican life. Most beaches here are dramatic and rocky rather than swim-up resort sand, and infrastructure is modest. Getting there means flying into Santo Domingo (SDQ) — the local María Montez airport (BRX) has no scheduled commercial flights — then driving roughly 3 to 3.5 hours southwest via Autopista 6 de Noviembre and Highway 44.",
+      "vibe": "Wild, remote, eco-adventure, untouched",
+      "best_for": [
+        "Nature lovers",
+        "Adventure travelers",
+        "Road-trippers",
+        "Eco-tourists",
+        "Photographers",
+        "Off-the-beaten-path explorers"
+      ],
+      "scores": {
+        "beach": 8,
+        "nightlife": 2,
+        "family": 5,
+        "value": 8,
+        "nature": 10,
+        "culture": 6,
+        "safety": 7,
+        "walkability": 4
+      },
+      "sargassum_risk": "Moderate",
+      "avg_hotel_price_usd": 90,
+      "english_prevalence": "Low",
+      "best_months": [
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "whale_season": "N/A — humpback whale watching is in Samaná Bay on the northeast coast, not the southwest",
+      "lat": 18.2085,
+      "lng": -71.1008,
+      "highlights": [
+        "Bahía de las Águilas — pristine 8 km beach in Jaragua National Park, reached by 4x4 or boat",
+        "Larimar mines above La Ciénaga — the only source of the blue gemstone on Earth",
+        "Lago Enriquillo & Isla Cabritos — Caribbean's largest lake with crocodiles and iguanas",
+        "Playa San Rafael — river-fed mountain pools meeting the sea, with fresh-fish paradas",
+        "Playa Los Patos — freshwater lagoon and pebble beach south of town",
+        "Cabo Rojo & Las Cuevas — launch point and sea caves en route to Bahía de las Águilas",
+        "Polo Magnético — the famous gravity-defying optical illusion road in the mountains",
+        "Sierra de Bahoruco National Park — birdwatching and cloud-forest hiking"
+      ],
+      "pros": [
+        "Bahía de las Águilas is one of the Caribbean's most beautiful, undeveloped beaches",
+        "Genuinely off-the-beaten-path with few tourists and authentic local culture",
+        "Extraordinary natural diversity: mountains, salt lake, rivers, sea caves, gemstone mines",
+        "Excellent value — hotels and food are cheap compared with eastern resort zones",
+        "Cooler mountain air and dramatic scenery unlike anywhere else in the DR"
+      ],
+      "cons": [
+        "Long 3 to 3.5-hour drive from Santo Domingo; no scheduled flights to local BRX airport",
+        "Many beaches are rocky/pebbly rather than soft resort sand, with rougher surf",
+        "Limited tourist infrastructure, modest hotels and little nightlife",
+        "Reaching top sights (Bahía de las Águilas, larimar mines) requires a 4x4 or boat tour",
+        "Low English prevalence — basic Spanish helps a lot"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bahia_de_las_Aguilas_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_Dominican_Republic.jpg",
+          "credit": "Jordina Collell Cortacans",
+          "license": "CC BY-SA 2.0",
+          "alt": "Turquoise water and white sand at the undeveloped Bahía de las Águilas beach in Jaragua National Park"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans",
+          "license": "CC BY-SA 2.0",
+          "alt": "Long empty crescent of sand and clear shallow water at Bahía de las Águilas, southwest Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Punta_aguila_220102.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Punta_aguila_220102.jpg",
+          "credit": "Peter Cremer (Pc.wiki4)",
+          "license": "CC BY-SA 4.0",
+          "alt": "Rocky headland of Punta Águila at the edge of Bahía de las Águilas bay"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bahia_de_las_aguilas_211212.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_aguilas_211212.jpg",
+          "credit": "Peter Cremer",
+          "license": "CC BY-SA 4.0",
+          "alt": "Cliffs and clear Caribbean water along the shoreline of Bahía de las Águilas near Cabo Rojo"
+        }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "id": "hard-rock-punta-cana",
+      "name": "Hard Rock Hotel & Casino Punta Cana",
+      "area_id": "punta-cana",
+      "brand": "Hard Rock",
+      "stars": 5,
+      "guest_rating": 8.4,
+      "price_per_night_usd": 480,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 10,
+      "num_pools": 13,
+      "num_rooms": 1882,
+      "amenities": [
+        "Casino",
+        "Spa",
+        "Golf",
+        "Water park",
+        "Kids club",
+        "Nightclub",
+        "Multiple a-la-carte restaurants",
+        "Swim-up suites",
+        "Lazy river",
+        "Fitness center"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 25,
+      "lat": 18.733018,
+      "lng": -68.48295,
+      "official_site": "https://hotel.hardrock.com/punta-cana/",
+      "summary": "A vast, music-themed all-inclusive mega-resort with the largest casino in the Dominican Republic, a Nicklaus golf course and 13 pools, geared to families and party-minded couples alike.",
+      "description": "Sprawling across 121 acres of Macao Beach north of Bavaro, Hard Rock Hotel & Casino Punta Cana is one of the largest all-inclusive resorts in the Dominican Republic, with roughly 1,882 suites spread over multiple low-rise buildings. The rock-and-roll branding runs throughout, from the on-site Vegas-style casino (the biggest in the region) and Oro nightclub to in-room hydro spa tubs and a guitar-lending program. Thirteen pools, three swim-up bars, a lazy river, the Rockaway Bay water park and the Jack Nicklaus-designed Hard Rock Golf Club at Cana Bay keep guests of all ages busy.",
+      "pros": [
+        "Enormous range of pools, restaurants and entertainment in one resort",
+        "On-site casino, nightclub and water park suit both families and couples",
+        "Spacious suites with hydro tubs and on-trend decor",
+        "Jack Nicklaus golf course at Cana Bay"
+      ],
+      "cons": [
+        "Very large footprint means a lot of walking and crowds at peak times",
+        "Premium price point versus nearby Bavaro resorts",
+        "Food quality is inconsistent across so many outlets",
+        "Sargassum seaweed can affect the beach in summer months"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Wide white-sand beach lined with palm trees on Playa Bavaro, Punta Cana"
+        },
+        {
+          "url": "https://hotel.hardrock.com/punta-cana/files/6136/29706541_ImageLargeWidth.jpg",
+          "source": "https://hotel.hardrock.com/punta-cana/",
+          "credit": "Hard Rock Hotel & Casino Punta Cana (official site)",
+          "license": "Official press/media image - used with attribution",
+          "alt": "Golf course at Hard Rock Hotel & Casino Punta Cana"
+        },
+        {
+          "url": "https://hotel.hardrock.com/punta-cana/files/6136/15475669_ImageLargeWidth.jpg",
+          "source": "https://hotel.hardrock.com/punta-cana/",
+          "credit": "Hard Rock Hotel & Casino Punta Cana (official site)",
+          "license": "Official press/media image - used with attribution",
+          "alt": "Restaurant dining venue at Hard Rock Hotel & Casino Punta Cana"
+        }
+      ]
+    },
+    {
+      "id": "lopesan-costa-bavaro",
+      "name": "Lopesan Costa Bavaro Resort, Spa & Casino",
+      "area_id": "punta-cana",
+      "brand": "Lopesan",
+      "stars": 5,
+      "guest_rating": 8,
+      "price_per_night_usd": 330,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 10,
+      "num_pools": 4,
+      "num_rooms": 1042,
+      "amenities": [
+        "Casino",
+        "Spa",
+        "Nightclub",
+        "Kids club",
+        "Multiple a-la-carte restaurants",
+        "Infinity pool",
+        "Amphitheater entertainment",
+        "Water slide",
+        "Fitness center"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.67069,
+      "lng": -68.40443,
+      "official_site": "https://www.lopesan.com/en/hotels/dominican-republic/punta-cana/playa-bavaro/costa-bavaro",
+      "summary": "A modern, design-forward all-inclusive on wide Bavaro Beach combining a striking double-level infinity pool, a casino and a lively entertainment boulevard.",
+      "description": "Opened in 2019, Lopesan Costa Bavaro is one of the newer large-scale resorts on Bavaro Beach and one of the most architecturally contemporary, built around a landmark two-tier infinity pool. The 'Boulevard' leisure district packs in a casino, a large amphitheater, a nightclub and a row of bars, while several themed restaurants and two large buffets cover the dining. The wide, soft-sand beach and proximity to the airport make it a strong mainstream all-inclusive pick for couples and families.",
+      "pros": [
+        "One of the newest large resorts on Bavaro, with fresh, modern rooms",
+        "Dramatic double-level infinity pool and stylish public spaces",
+        "Short transfer from PUJ airport",
+        "Strong on-site entertainment, casino and nightlife"
+      ],
+      "cons": [
+        "Buffet and a-la-carte food gets mixed reviews",
+        "Huge property can feel impersonal and busy",
+        "Reservation system for a-la-carte restaurants can be frustrating",
+        "Sargassum seaweed can wash up on the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2023_-_Playa_Bavaro_Punta_Cana_-_08.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2023_-_Playa_Bavaro_Punta_Cana_-_08.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Turquoise sea and palm-fringed sands at Playa Bavaro, Punta Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bavaro_beach_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bavaro_beach_-_panoramio.jpg",
+          "credit": "Federico Mata",
+          "license": "CC BY 3.0",
+          "alt": "Calm shallow water and white sand at Bavaro beach, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Playa_Bavaro.JPG",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro.JPG",
+          "credit": "Andreas Volkmer",
+          "license": "CC BY-SA 3.0",
+          "alt": "Beach and resort area along Playa Bavaro, Punta Cana"
+        }
+      ]
+    },
+    {
+      "id": "excellence-punta-cana",
+      "name": "Excellence Punta Cana",
+      "area_id": "punta-cana",
+      "brand": "Excellence",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 360,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 11,
+      "num_pools": 4,
+      "num_rooms": 452,
+      "amenities": [
+        "Spa",
+        "Multiple a-la-carte restaurants",
+        "Adults-only",
+        "Swim-up suites",
+        "Fitness center",
+        "Yoga classes",
+        "Whirlpool tubs in suites",
+        "Beach grill",
+        "Hydrotherapy circuit"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 45,
+      "lat": 18.8253,
+      "lng": -68.6018,
+      "official_site": "https://www.theexcellencecollection.com/resorts/punta-cana/excellence-resorts/excellence-punta-cana/",
+      "summary": "An elegant adults-only, all-suite all-inclusive on a quiet stretch of Uvero Alto beach, known for fine dining, an excellent spa and a calmer, romance-focused vibe.",
+      "description": "Set on the more secluded Uvero Alto coast about 45 minutes north of the airport, Excellence Punta Cana is an adults-only (18+), all-suite retreat aimed squarely at couples and honeymooners. Every suite has a furnished balcony or terrace, marble bathroom and a jetted whirlpool tub, and many are swim-up. With around 11 restaurants, a standout spa and hydrotherapy circuit, and a long, uncrowded beach, it trades the casino-and-nightclub energy of Bavaro for a quieter, more refined experience.",
+      "pros": [
+        "Adults-only, all-suite layout ideal for couples and honeymoons",
+        "Consistently high marks for food and the spa",
+        "Long, quiet Uvero Alto beach with fewer crowds",
+        "Swim-up suites and in-room whirlpool tubs"
+      ],
+      "cons": [
+        "Longer 45-minute transfer from PUJ than Bavaro resorts",
+        "Remote location means little to do off-property",
+        "No casino or major nightlife on site",
+        "Sargassum can affect the Uvero Alto beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://84c1b501fde61dba63bc-fa6d706bb129c036124b532437347c9f.ssl.cf1.rackcdn.com/responsive/4:3/750px/u/_xpc/_suites/excellence-punta-cana-suites-ocean-view.jpg",
+          "source": "https://www.theexcellencecollection.com/resorts/punta-cana/excellence-resorts/excellence-punta-cana/",
+          "credit": "Excellence Collection (official site)",
+          "license": "Official press/media image - used with attribution",
+          "alt": "Ocean-view suite at Excellence Punta Cana"
+        },
+        {
+          "url": "https://84c1b501fde61dba63bc-fa6d706bb129c036124b532437347c9f.ssl.cf1.rackcdn.com/responsive/4:3/750px/u/_xpc/_suites/XPC_Junior_Swim_Up_Suite_02_LR.jpg",
+          "source": "https://www.theexcellencecollection.com/resorts/punta-cana/excellence-resorts/excellence-punta-cana/",
+          "credit": "Excellence Collection (official site)",
+          "license": "Official press/media image - used with attribution",
+          "alt": "Junior swim-up suite at Excellence Punta Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Caribbean_Sunset%2C_Bavaro%2C_Dominican_Republic_%2814702746147%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Caribbean_Sunset,_Bavaro,_Dominican_Republic_(14702746147).jpg",
+          "credit": "Joe deSousa",
+          "license": "CC0 1.0 Public Domain",
+          "alt": "Caribbean sunset over the beach near Bavaro, Dominican Republic"
+        }
+      ]
+    },
+    {
+      "id": "barcelo-bavaro-palace",
+      "name": "Barcelo Bavaro Palace",
+      "area_id": "punta-cana",
+      "brand": "Barcelo",
+      "stars": 5,
+      "guest_rating": 8.4,
+      "price_per_night_usd": 290,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 11,
+      "num_pools": 4,
+      "num_rooms": 1402,
+      "amenities": [
+        "Water park",
+        "Casino",
+        "Spa",
+        "Golf",
+        "Kids club",
+        "Bowling alley",
+        "Multiple a-la-carte restaurants",
+        "Theater shows",
+        "Wave pool",
+        "Family suites"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.6883,
+      "lng": -68.4286,
+      "official_site": "https://www.barcelo.com/en-us/barcelo-bavaro-palace/",
+      "summary": "A large, value-oriented family all-inclusive on Bavaro Beach with two water parks, an 18-hole P.B. Dye golf course, a casino and a bowling alley for non-stop activity.",
+      "description": "Part of the big Barcelo Bavaro complex, Barcelo Bavaro Palace is built for families and groups who want plenty to do without leaving the resort. Its biggest draws are two water parks - the kid-focused Barcy and the Pirates Island wave-pool park - plus an 18-hole P.B. Dye golf course, casino, bowling alley, theater and dedicated Family Club rooms with two bedrooms. The beach is a broad, classic Bavaro stretch, and the all-inclusive pricing tends to undercut the flashier neighbors.",
+      "pros": [
+        "Two on-site water parks plus a wave pool, great for kids",
+        "Strong value for a 5-star family all-inclusive",
+        "Loads of activities: golf, casino, bowling, nightly shows",
+        "Two-bedroom Family Club suites available"
+      ],
+      "cons": [
+        "Older sections and rooms can feel dated",
+        "Very large and busy, especially in high season",
+        "Buffet quality is hit or miss",
+        "Sargassum seaweed can affect the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Palm-lined white-sand beach at Playa Bavaro, Punta Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bavaro_beach_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bavaro_beach_-_panoramio.jpg",
+          "credit": "Federico Mata",
+          "license": "CC BY 3.0",
+          "alt": "Shallow turquoise water at Bavaro beach near Barcelo, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Playa_Bavaro.JPG",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro.JPG",
+          "credit": "Andreas Volkmer",
+          "license": "CC BY-SA 3.0",
+          "alt": "Resort beachfront along Playa Bavaro, Punta Cana"
+        }
+      ]
+    },
+    {
+      "id": "joia-bavaro-by-iberostar",
+      "name": "JOIA Bavaro by Iberostar",
+      "area_id": "punta-cana",
+      "brand": "Iberostar",
+      "stars": 5,
+      "guest_rating": 9.3,
+      "price_per_night_usd": 410,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 7,
+      "num_pools": 3,
+      "num_rooms": 272,
+      "amenities": [
+        "Spa",
+        "Adults-only",
+        "Butler service",
+        "Golf",
+        "Multiple a-la-carte restaurants",
+        "In-room hot tubs",
+        "Galleon bar",
+        "Fitness center",
+        "Ocean-view pools"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 25,
+      "lat": 18.6878,
+      "lng": -68.4243,
+      "official_site": "https://www.iberostar.com/en/hotels/punta-cana/joia-bavaro-by-iberostar/",
+      "summary": "An intimate adults-only, all-suite luxury resort (formerly Iberostar Grand Bavaro) with butler service, in-suite hot tubs and a calmer feel on the Arena Gorda beachfront.",
+      "description": "Rebranded from Iberostar Grand Bavaro to JOIA Bavaro in mid-2024, this adults-only (18+) all-suite property sits on the Arena Gorda/Bavaro beachfront and is the most upscale, intimate corner of the wider Iberostar complex. With around 272 suites - each with a private hot tub - plus butler and concierge service, three ocean-view pools and a replica Spanish galleon serving as one of its bars, it leans into a quieter, romance-focused luxury experience. Guests also have access to the adjacent P.B. Dye golf course.",
+      "pros": [
+        "Small, intimate adults-only resort with personal butler service",
+        "Every suite has its own hot tub",
+        "Consistently among the highest-rated resorts in Bavaro",
+        "Quieter and more refined than the mega-resorts nearby"
+      ],
+      "cons": [
+        "Fewer restaurants and pools than larger resorts",
+        "Premium pricing for the small scale",
+        "Decor and some suites feel due for refresh post-rebrand",
+        "Sargassum can affect the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2023_-_Playa_Bavaro_Punta_Cana_-_08.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2023_-_Playa_Bavaro_Punta_Cana_-_08.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Turquoise Caribbean water and palms at Playa Bavaro, Punta Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Caribbean_Sunset%2C_Bavaro%2C_Dominican_Republic_%2814702746147%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Caribbean_Sunset,_Bavaro,_Dominican_Republic_(14702746147).jpg",
+          "credit": "Joe deSousa",
+          "license": "CC0 1.0 Public Domain",
+          "alt": "Sunset over the Caribbean Sea at Bavaro, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Playa_Bavaro.JPG",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro.JPG",
+          "credit": "Andreas Volkmer",
+          "license": "CC BY-SA 3.0",
+          "alt": "Beachfront resort area on Playa Bavaro, Punta Cana"
+        }
+      ]
+    },
+    {
+      "id": "majestic-mirage-punta-cana",
+      "name": "Majestic Mirage Punta Cana",
+      "area_id": "punta-cana",
+      "brand": "Majestic Resorts",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 340,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 8,
+      "num_pools": 13,
+      "num_rooms": 510,
+      "amenities": [
+        "Spa",
+        "Multiple a-la-carte restaurants",
+        "Swim-up suites",
+        "Adults-only section",
+        "Kids club",
+        "Swim-up bars",
+        "In-suite jacuzzis",
+        "Fitness center",
+        "Theater entertainment"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 30,
+      "lat": 18.7285,
+      "lng": -68.4657,
+      "official_site": "https://majesticmiragepuntacana.com/",
+      "summary": "An all-suite Arena Gorda resort that splits into a 5-building adults-only Mirage Club and a 2-building Family Club, with multiple pools and consistently high guest ratings.",
+      "description": "Majestic Mirage is an all-suite all-inclusive on Playa Arena Gorda that cleverly serves two audiences at once: five buildings form the adults-only (18+) Mirage Club, separated by landscaping from two Family Club buildings that welcome children. Every suite includes a jacuzzi and butler service, and the resort spreads multiple pools and four swim-up bars across the grounds. Praised for cleanliness and service, it sits on the Bavaro/Arena Gorda beachfront and offers a quieter, more boutique-feeling stay than the largest neighbors while still covering both couples and families.",
+      "pros": [
+        "Separate adults-only and family sections under one roof",
+        "All-suite accommodations with in-room jacuzzis and butler service",
+        "Frequently praised for cleanliness and attentive service",
+        "Multiple pools and several swim-up bars"
+      ],
+      "cons": [
+        "Only eight restaurants for a resort of its price",
+        "Adults-only and family areas are close, so some noise carries",
+        "A-la-carte reservations can be hard to secure",
+        "Sargassum seaweed can affect the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2023_-_Playa_Bavaro_Punta_Cana_-_01.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "White-sand Bavaro beach lined with coconut palms, Punta Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bavaro_beach_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bavaro_beach_-_panoramio.jpg",
+          "credit": "Federico Mata",
+          "license": "CC BY 3.0",
+          "alt": "Calm clear water and sand at Bavaro beach, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Caribbean_Sunset%2C_Bavaro%2C_Dominican_Republic_%2814702746147%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Caribbean_Sunset,_Bavaro,_Dominican_Republic_(14702746147).jpg",
+          "credit": "Joe deSousa",
+          "license": "CC0 1.0 Public Domain",
+          "alt": "Sunset over the Caribbean at Bavaro, Punta Cana"
+        }
+      ]
+    },
+    {
+      "id": "hyatt-ziva-cap-cana",
+      "name": "Hyatt Ziva Cap Cana",
+      "area_id": "cap-cana",
+      "brand": "Hyatt",
+      "stars": 5,
+      "guest_rating": 9.2,
+      "price_per_night_usd": 620,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "amenities": [
+        "Water park with lazy river and slides",
+        "Kids club",
+        "Multiple a-la-carte restaurants",
+        "Spa",
+        "Fitness center",
+        "Private Juanillo Beach",
+        "Swim-up suites",
+        "Nightly entertainment",
+        "Butler service (Club level)",
+        "Non-motorized watersports"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.5046,
+      "lng": -68.3895,
+      "num_restaurants": 8,
+      "num_pools": 4,
+      "num_rooms": 375,
+      "official_site": "https://www.hyatt.com/en-US/hotel/dominican-republic/hyatt-ziva-cap-cana/pujif",
+      "summary": "Sprawling family-friendly all-inclusive on Juanillo Beach with a big water park and dual-brand access to the adults-only Zilara side.",
+      "description": "Hyatt Ziva Cap Cana is the family half of a dual-branded 750-room mega-resort set on oceanfront within the gated Cap Cana enclave on Juanillo Beach. It has 375 contemporary oceanfront suites, a complimentary on-site water park with a lazy river and slides, a large kids club, swim-up suites and access to roughly two dozen shared food and beverage outlets across the Ziva and Zilara properties. It consistently ranks among the top resorts in the Dominican Republic on Tripadvisor (ranked #1 in the 2025 Travelers' Choice Best of the Best).",
+      "pros": [
+        "Excellent on-site water park ideal for families",
+        "Large stretch of calm, swimmable Juanillo Beach",
+        "Strong all-inclusive dining variety across both resorts",
+        "Modern rooms built from the ground up in 2019"
+      ],
+      "cons": [
+        "Premium pricing versus older Punta Cana resorts",
+        "Very large and busy; can feel crowded in peak season",
+        "Sargassum seaweed can affect the beach in summer months",
+        "Long walks between some buildings and amenities"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cap_Cana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Beach and turquoise water at Cap Cana near Juanillo, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_Republic.jpg",
+          "credit": "Uira Pora",
+          "license": "CC BY-SA 2.0",
+          "alt": "Marina of Cap Cana with yachts and waterfront buildings"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Capcana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Capcana.jpg",
+          "credit": "Rafael Fernandez de Castro",
+          "license": "Public Domain",
+          "alt": "Marina and waterfront at Cap Cana resort development"
+        }
+      ]
+    },
+    {
+      "id": "hyatt-zilara-cap-cana",
+      "name": "Hyatt Zilara Cap Cana",
+      "area_id": "cap-cana",
+      "brand": "Hyatt",
+      "stars": 5,
+      "guest_rating": 9.3,
+      "price_per_night_usd": 680,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "amenities": [
+        "Adults-only infinity pools",
+        "Swim-up suites",
+        "Spa",
+        "Multiple a-la-carte restaurants",
+        "Private Juanillo Beach",
+        "Butler service",
+        "Fitness center",
+        "Nightly entertainment",
+        "Premium top-shelf bars",
+        "Access to Ziva water park"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.5039,
+      "lng": -68.3905,
+      "num_restaurants": 10,
+      "num_pools": 4,
+      "num_rooms": 375,
+      "official_site": "https://www.hyatt.com/zilara/en-US/pujia-hyatt-zilara-cap-cana",
+      "summary": "Adults-only oceanfront all-inclusive on Juanillo Beach that earned Tripadvisor's 2026 #1 Travelers' Choice ranking.",
+      "description": "Hyatt Zilara Cap Cana is the adults-only side of the dual-branded Cap Cana resort, with 375 contemporary oceanfront suites, many featuring swim-up access and ocean views. It shares the oceanfront site and roughly 25 food and beverage outlets with the family-oriented Ziva while keeping its pools, beach zones and entertainment exclusively for guests 18 and over. It was ranked #1 in Tripadvisor's 2026 Travelers' Choice Best of the Best awards.",
+      "pros": [
+        "Top-ranked adults-only resort with strong service",
+        "Quiet adult pools plus optional access to the water park",
+        "Excellent variety of premium dining and bars",
+        "Spacious modern swim-up suites"
+      ],
+      "cons": [
+        "Among the most expensive options in Cap Cana",
+        "Shares some spaces and beach with the busy family side",
+        "Sargassum can affect the beach in summer",
+        "Resort scale means it is not an intimate boutique experience"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cap_Cana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Turquoise Caribbean water and beach at Cap Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_Republic.jpg",
+          "credit": "Uira Pora",
+          "license": "CC BY-SA 2.0",
+          "alt": "Cap Cana marina waterfront with boats"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Capcana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Capcana.jpg",
+          "credit": "Rafael Fernandez de Castro",
+          "license": "Public Domain",
+          "alt": "Cap Cana resort marina and waterfront"
+        }
+      ]
+    },
+    {
+      "id": "secrets-cap-cana",
+      "name": "Secrets Cap Cana Resort & Spa",
+      "area_id": "cap-cana",
+      "brand": "Hyatt",
+      "stars": 5,
+      "guest_rating": 8.8,
+      "price_per_night_usd": 430,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "amenities": [
+        "Adults-only Unlimited-Luxury all-inclusive",
+        "Pevonia Spa",
+        "Multiple a-la-carte restaurants",
+        "Nightclub",
+        "Infinity pool",
+        "Preferred Club with private pool",
+        "Private Juanillo Beach",
+        "Indoor theater entertainment",
+        "Fitness center",
+        "Non-motorized watersports"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.5095,
+      "lng": -68.3998,
+      "num_restaurants": 8,
+      "num_pools": 3,
+      "num_rooms": 457,
+      "official_site": "https://www.hyattinclusivecollection.com/en/resorts-hotels/secrets/dominican-republic/cap-cana-resort-spa/",
+      "summary": "Adults-only Unlimited-Luxury all-inclusive on Juanillo Beach with multiple dining venues, a spa and a nightclub.",
+      "description": "Secrets Cap Cana Resort & Spa is a 457-room adults-only resort on the white sand of Juanillo Beach inside the gated Cap Cana community, run under Hyatt's Inclusive Collection with the Unlimited-Luxury concept (no reservations needed at a-la-carte restaurants, top-shelf spirits and 24-hour room service included). It offers around eight dining options, a Pevonia spa, a nightclub, an indoor theater and a Preferred Club tier with an exclusive pool and lounge.",
+      "pros": [
+        "Strong value for an adults-only luxury all-inclusive",
+        "Multiple dining venues with no reservations required",
+        "Beautiful calm section of Juanillo Beach",
+        "Lively evening entertainment and nightclub"
+      ],
+      "cons": [
+        "Large resort that can feel busy at peak times",
+        "Some rooms are a long walk from the beach and lobby",
+        "Sargassum can affect the beach in summer",
+        "Upsell pressure for spa and Preferred Club"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cap_Cana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "White sand beach and clear water at Cap Cana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_Republic.jpg",
+          "credit": "Uira Pora",
+          "license": "CC BY-SA 2.0",
+          "alt": "Marina at Cap Cana with luxury yachts"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Capcana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Capcana.jpg",
+          "credit": "Rafael Fernandez de Castro",
+          "license": "Public Domain",
+          "alt": "Cap Cana waterfront resort development"
+        }
+      ]
+    },
+    {
+      "id": "eden-roc-cap-cana",
+      "name": "Eden Roc Cap Cana",
+      "area_id": "cap-cana",
+      "brand": "Independent",
+      "stars": 5,
+      "guest_rating": 9.4,
+      "price_per_night_usd": 780,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "amenities": [
+        "Private suites with plunge pools",
+        "Relais & Chateaux fine dining",
+        "20,000 sq ft Wellness & Spa center",
+        "Private Blue Flag beach club",
+        "Punta Espada golf access",
+        "Lagoon-style pools",
+        "Private airport transfers",
+        "Personalized butler service",
+        "Two MICHELIN Keys"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.4869,
+      "lng": -68.3742,
+      "num_restaurants": 4,
+      "num_pools": 3,
+      "num_rooms": 68,
+      "official_site": "https://www.edenroccapcana.com/",
+      "summary": "Intimate ultra-luxury Relais & Chateaux retreat of around 68 private suites and villas, the first Dominican hotel with Two MICHELIN Keys.",
+      "description": "Eden Roc Cap Cana is the only Relais & Chateaux property in the Dominican Republic and the first to earn Two MICHELIN Keys (awarded October 2025). The intimate resort comprises roughly 68 stand-alone pool suites, beachfront suites, oceanfront bungalows and villas, set among gardens and lagoon-style pools with a private Blue Flag beach club and a 20,000-square-foot wellness and spa center. It is a food-driven, highly personalized luxury experience served on a bed-and-breakfast basis rather than a large all-inclusive.",
+      "pros": [
+        "Exceptional, personalized service and fine dining",
+        "Private pool suites and villas offer real seclusion",
+        "Direct access to Punta Espada (Jack Nicklaus) golf",
+        "Two MICHELIN Keys and Relais & Chateaux pedigree"
+      ],
+      "cons": [
+        "Very expensive, among the priciest in the region",
+        "Not all-inclusive; dining and extras add up quickly",
+        "Beach is reached via a shuttle to the beach club",
+        "Limited nightlife and large-resort entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://www.edenroccapcana.com/wp-content/uploads/2025/07/Eden-Roc-Cap-Cana-3-1024x508.jpg",
+          "source": "https://www.edenroccapcana.com/",
+          "credit": "Eden Roc Cap Cana (official site)",
+          "license": "Official site media, all rights reserved",
+          "alt": "Eden Roc Cap Cana resort grounds and lagoon-style pool"
+        },
+        {
+          "url": "https://www.edenroccapcana.com/wp-content/uploads/2025/07/Beachfront-Suite-Living-Room-2-1-1024x508.jpg",
+          "source": "https://www.edenroccapcana.com/",
+          "credit": "Eden Roc Cap Cana (official site)",
+          "license": "Official site media, all rights reserved",
+          "alt": "Beachfront suite living room at Eden Roc Cap Cana"
+        },
+        {
+          "url": "https://www.edenroccapcana.com/wp-content/uploads/2025/07/Punta-Espada-Golf-Course-1024x508.jpg",
+          "source": "https://www.edenroccapcana.com/",
+          "credit": "Eden Roc Cap Cana (official site)",
+          "license": "Official site media, all rights reserved",
+          "alt": "Punta Espada golf course at Cap Cana"
+        },
+        {
+          "url": "https://www.edenroccapcana.com/wp-content/uploads/2025/07/Oceanfront-Massage-1024x508.jpg",
+          "source": "https://www.edenroccapcana.com/",
+          "credit": "Eden Roc Cap Cana (official site)",
+          "license": "Official site media, all rights reserved",
+          "alt": "Oceanfront spa and wellness experience at Eden Roc Cap Cana"
+        }
+      ]
+    },
+    {
+      "id": "sanctuary-cap-cana",
+      "name": "Sanctuary Cap Cana, a Luxury Collection Resort",
+      "area_id": "cap-cana",
+      "brand": "Marriott",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 560,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "amenities": [
+        "Adults-only all-inclusive",
+        "Private plunge-pool suites",
+        "Swim-up suites",
+        "Multiple a-la-carte restaurants",
+        "Live piano bar",
+        "Spa",
+        "Private beach and marina access",
+        "Six pools and whirlpool",
+        "Sanctuary Town shops and dining",
+        "Fitness center"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.4985,
+      "lng": -68.4145,
+      "num_restaurants": 8,
+      "num_pools": 6,
+      "num_rooms": 324,
+      "official_site": "https://www.marriott.com/en-us/hotels/pujlc-sanctuary-cap-cana-a-luxury-collection-resort-dominican-republic-adult-all-inclusive/overview/",
+      "summary": "Adults-only Luxury Collection all-inclusive built like a colonial Spanish castle town beside the Cap Cana marina.",
+      "description": "Sanctuary Cap Cana is a 324-suite adults-only all-inclusive in Marriott's Luxury Collection, designed to resemble a colonial Spanish castle town perched above the water near the Cap Cana marina. Rooms span Colonial, Fortress and Caribbean Villa sections, with oceanfront, swim-up and private plunge-pool options. The resort has six pools, multiple a-la-carte restaurants, a live piano bar and an adjacent Sanctuary Town with extra dining and shops.",
+      "pros": [
+        "Distinctive romantic, castle-style architecture",
+        "Adults-only and good for couples and honeymoons",
+        "Earns Marriott Bonvoy points and elite recognition",
+        "Marina-side setting with calm cove swimming"
+      ],
+      "cons": [
+        "Main swimming beach is a small protected cove",
+        "Decor and some rooms feel dated versus newer resorts",
+        "Layout with steps and levels is less accessible",
+        "All-inclusive dining is good but not the area's broadest"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_Republic.jpg",
+          "credit": "Uira Pora",
+          "license": "CC BY-SA 2.0",
+          "alt": "Cap Cana marina near Sanctuary Cap Cana resort"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Capcana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Capcana.jpg",
+          "credit": "Rafael Fernandez de Castro",
+          "license": "Public Domain",
+          "alt": "Waterfront buildings at Cap Cana marina"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cap_Cana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Coastline and clear water at Cap Cana"
+        }
+      ]
+    },
+    {
+      "id": "margaritaville-island-reserve-cap-cana-wave",
+      "name": "Margaritaville Island Reserve Cap Cana Wave",
+      "area_id": "cap-cana",
+      "brand": "Karisma",
+      "stars": 4,
+      "guest_rating": 8.3,
+      "price_per_night_usd": 380,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "amenities": [
+        "Gourmet Inclusive all-inclusive",
+        "Multiple themed restaurants (steakhouse, smokehouse)",
+        "Swim-up pool bars",
+        "Spa and wellness facilities",
+        "Kids and family activities",
+        "Fitness center and yoga",
+        "Non-motorized watersports nearby",
+        "Entertainment village",
+        "Tennis"
+      ],
+      "nearest_airport": "PUJ - Punta Cana International Airport",
+      "airport_transfer_min": 15,
+      "lat": 18.5159,
+      "lng": -68.4087,
+      "num_restaurants": 11,
+      "num_pools": 2,
+      "num_rooms": 251,
+      "official_site": "https://www.karismahotels.com/margaritaville-island-reserve-resorts/margaritaville-island-reserve-resorts-cap-cana-wave",
+      "summary": "Casual, mid-range Margaritaville all-inclusive in Cap Cana with a family-friendly Wave section and a laid-back vibe.",
+      "description": "Margaritaville Island Reserve Cap Cana Wave is a Karisma Gourmet Inclusive resort opened in 2021, with 251 suites in the family-oriented Wave section (the complex also includes an adults-only Hammock section). It leans into the relaxed Margaritaville brand with themed restaurants such as a JWB steakhouse and a Landshark smokehouse, swim-up bars and an entertainment village. The resort sits a short distance from Juanillo Beach rather than directly on the sand.",
+      "pros": [
+        "Strong mid-range value for the upscale Cap Cana area",
+        "Fun, casual Margaritaville theme and dining variety",
+        "Spacious, modern suites from a 2021 build",
+        "Family-friendly with separate adults-only section"
+      ],
+      "cons": [
+        "Not beachfront; beach access requires a short shuttle or walk",
+        "Food quality reviews are mixed and some venues rotate closed",
+        "Fewer pools than larger nearby resorts",
+        "Entertainment can be hit or miss off-peak"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cap_Cana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Beach scenery in Cap Cana near Juanillo"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Capcana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Capcana.jpg",
+          "credit": "Rafael Fernandez de Castro",
+          "license": "Public Domain",
+          "alt": "Cap Cana resort area waterfront"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cap_Cana_Marina_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_Republic.jpg",
+          "credit": "Uira Pora",
+          "license": "CC BY-SA 2.0",
+          "alt": "Marina and boats at Cap Cana"
+        }
+      ]
+    },
+    {
+      "id": "casa-colonial-beach-spa-puerto-plata",
+      "name": "Casa Colonial Beach & Spa",
+      "area_id": "puerto-plata",
+      "brand": "Independent",
+      "stars": 5,
+      "guest_rating": 8.9,
+      "price_per_night_usd": 320,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 3,
+      "num_pools": 1,
+      "num_rooms": 50,
+      "amenities": [
+        "Bagua Spa",
+        "Rooftop infinity pool with jacuzzis",
+        "Beachfront",
+        "Fine-dining restaurant (Lucia)",
+        "Golf access (Playa Dorada)",
+        "Concierge service",
+        "Member of Small Luxury Hotels of the World",
+        "Free Wi-Fi"
+      ],
+      "nearest_airport": "POP - Gregorio Luperon International Airport",
+      "airport_transfer_min": 15,
+      "lat": 19.7794,
+      "lng": -70.6433,
+      "official_site": "https://www.casacolonialhotel.com/en/",
+      "summary": "An intimate 50-suite five-star boutique hotel on Playa Dorada, blending restored colonial elegance with a chic rooftop infinity pool and award-winning spa.",
+      "description": "Casa Colonial is the North Coast's most refined small luxury property, a member of Small Luxury Hotels of the World set on a meticulously restored colonial estate at the edge of Playa Dorada. Its 50 all-suite accommodations, rooftop infinity pool with jacuzzis, the Bagua Spa, and the French-Caribbean fine-dining restaurant Lucia draw couples and design-minded travelers who want quiet sophistication rather than a sprawling all-inclusive megaresort. It is the rare Puerto Plata hotel that competes on style and service rather than volume.",
+      "pros": [
+        "Genuinely upscale, design-led atmosphere unmatched in the area",
+        "Excellent rooftop pool, jacuzzis and ocean views",
+        "Strong spa and fine dining at Lucia",
+        "Quiet, intimate (only 50 suites) and adult-leaning calm"
+      ],
+      "cons": [
+        "Not all-inclusive, so food and drinks add up quickly",
+        "The beach here is modest compared with the wider Playa Dorada strand",
+        "Limited on-site nightlife and entertainment",
+        "Pricey for a region known for budget all-inclusives"
+      ],
+      "images": [
+        {
+          "url": "https://www.casacolonialbeach.com/images/slides/slide-1.jpg",
+          "source": "https://www.casacolonialbeach.com/",
+          "credit": "Casa Colonial Beach & Spa",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Casa Colonial Beach & Spa exterior and grounds in Puerto Plata"
+        },
+        {
+          "url": "https://www.casacolonialbeach.com/images/slides/slide-6.jpg",
+          "source": "https://www.casacolonialbeach.com/",
+          "credit": "Casa Colonial Beach & Spa",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Rooftop pool and ocean view at Casa Colonial Beach & Spa"
+        },
+        {
+          "url": "https://www.casacolonialbeach.com/images/accommodations.jpg",
+          "source": "https://www.casacolonialbeach.com/",
+          "credit": "Casa Colonial Beach & Spa",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Suite accommodation at Casa Colonial Beach & Spa"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Playa_Dorada_-_Puerto_Plata.jpg/1280px-Playa_Dorada_-_Puerto_Plata.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_Puerto_Plata.jpg",
+          "credit": "Max Bosio (Wikimedia Commons)",
+          "license": "CC BY 2.0",
+          "alt": "Playa Dorada beach in Puerto Plata where Casa Colonial is located"
+        }
+      ]
+    },
+    {
+      "id": "iberostar-waves-costa-dorada-puerto-plata",
+      "name": "Iberostar Waves Costa Dorada",
+      "area_id": "puerto-plata",
+      "brand": "Iberostar",
+      "stars": 5,
+      "guest_rating": 8.2,
+      "price_per_night_usd": 210,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 4,
+      "num_pools": 1,
+      "num_rooms": 516,
+      "amenities": [
+        "Spa Sensations & wellness center",
+        "Large free-form pool",
+        "A-la-carte restaurants (Japanese, Mexican, Italian) plus buffet",
+        "Star Camp kids club & mini-disco",
+        "Daily entertainment program",
+        "Beachfront with watersports",
+        "Tennis & pickleball",
+        "Gym"
+      ],
+      "nearest_airport": "POP - Gregorio Luperon International Airport",
+      "airport_transfer_min": 15,
+      "lat": 19.7805,
+      "lng": -70.6195,
+      "official_site": "https://www.iberostar.com/en/hotels/puerto-plata/iberostar-waves-costa-dorada/",
+      "summary": "A long-running family-friendly all-inclusive on a wide Costa Dorada beach, with a sprawling free-form pool, varied a-la-carte dining and a packed activity schedule.",
+      "description": "Iberostar Waves Costa Dorada is a reliable upper-mid-range all-inclusive set on a long sandy beach just east of Playa Dorada. The large multi-section main pool, three a-la-carte restaurants (Mexican, Italian, Japanese) plus a buffet, and an all-ages entertainment program make it a solid pick for families and couples wanting good value rather than cutting-edge luxury. Service and food quality are frequently praised, though parts of the resort show their age.",
+      "pros": [
+        "Strong, friendly service and good buffet plus a-la-carte variety",
+        "Big free-form pool and lively daily entertainment",
+        "Direct access to a long, walkable beach",
+        "Good value for an all-inclusive"
+      ],
+      "cons": [
+        "Rooms and bathrooms feel dated and need renovation",
+        "Occasional reports of stomach upsets among guests",
+        "Beach can collect seaweed/litter at times",
+        "Layout is large and can feel impersonal"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hotel_en_Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg/1280px-Hotel_en_Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Hotel_en_Playa_Dorada,_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "credit": "Juan Espaillat (Wikimedia Commons)",
+          "license": "CC BY 3.0",
+          "alt": "Resort and pool in the Playa Dorada / Costa Dorada area near Puerto Plata"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A_shady_nook_on_Playa_Dorada_beach_-_panoramio.jpg/1280px-A_shady_nook_on_Playa_Dorada_beach_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:A_shady_nook_on_Playa_Dorada_beach_-_panoramio.jpg",
+          "credit": "Scotia (Wikimedia Commons)",
+          "license": "CC BY 3.0",
+          "alt": "Shady palm-fringed nook on the golden-sand beach near Costa Dorada, Puerto Plata"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Couch%C3%A9_de_soleil_%C3%A0_Puerto_Plata_%C3%A0_Playa_Dorada_%282024%29.jpg/1280px-Couch%C3%A9_de_soleil_%C3%A0_Puerto_Plata_%C3%A0_Playa_Dorada_%282024%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Couch%C3%A9_de_soleil_%C3%A0_Puerto_Plata_%C3%A0_Playa_Dorada_(2024).jpg",
+          "credit": "Victoria2678 (Wikimedia Commons)",
+          "license": "CC BY-SA 4.0",
+          "alt": "Sunset over the beach at Playa Dorada, Puerto Plata"
+        }
+      ]
+    },
+    {
+      "id": "vh-gran-ventana-beach-resort-puerto-plata",
+      "name": "VH Gran Ventana Beach Resort",
+      "area_id": "puerto-plata",
+      "brand": "VH Hotels & Resorts",
+      "stars": 4,
+      "guest_rating": 8.1,
+      "price_per_night_usd": 165,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 6,
+      "num_pools": 3,
+      "num_rooms": 506,
+      "amenities": [
+        "Three pools (incl. adults-only and kids' pool)",
+        "Swim-up pool bar",
+        "Kids club & playground",
+        "Spa & sauna",
+        "Tennis",
+        "Watersports (kayak, snorkel, windsurf)",
+        "Dive center intro classes",
+        "Beachfront on Playa Dorada"
+      ],
+      "nearest_airport": "POP - Gregorio Luperon International Airport",
+      "airport_transfer_min": 20,
+      "lat": 19.7755,
+      "lng": -70.6435,
+      "official_site": "https://www.granventanahotel.com/en/",
+      "summary": "A large, well-priced family all-inclusive in gated Playa Dorada with three pools, a kids club and a long stretch of beach.",
+      "description": "VH Gran Ventana Beach Resort is one of the best-value family all-inclusives in Playa Dorada, occupying prime beachfront in the gated resort complex. With about 506 Caribbean-style rooms, three pools (including an adults-only pool and a kids' pool with swim-up bar), several eateries including three a-la-carte restaurants and a buffet, a kids club and a spa, it suits families and groups who want plenty of activity without a premium price tag. It is comfortable and dependable rather than luxurious.",
+      "pros": [
+        "Excellent value, especially for families",
+        "Three pools including a quieter adults-only option",
+        "Long beachfront and good range of included watersports",
+        "Cool, airy lobby and friendly staff"
+      ],
+      "cons": [
+        "Decor and rooms are dated in places",
+        "A la carte reservations fill up quickly at peak times",
+        "Large property means busy pools and buffet at peak times",
+        "Wi-Fi can be patchy away from the lobby"
+      ],
+      "images": [
+        {
+          "url": "https://www.granventana.com/images/slides/slide-1.jpg",
+          "source": "https://www.granventana.com/",
+          "credit": "VH Gran Ventana Beach Resort",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "VH Gran Ventana Beach Resort grounds and pool, Playa Dorada"
+        },
+        {
+          "url": "https://www.granventana.com/images/slides/slide-2.jpg",
+          "source": "https://www.granventana.com/",
+          "credit": "VH Gran Ventana Beach Resort",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Beach and grounds at VH Gran Ventana Beach Resort, Playa Dorada"
+        },
+        {
+          "url": "https://www.granventana.com/images/accommodations.jpg",
+          "source": "https://www.granventana.com/",
+          "credit": "VH Gran Ventana Beach Resort",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Guest room at VH Gran Ventana Beach Resort"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/En_Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg/1280px-En_Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:En_Playa_Dorada,_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "credit": "Juan Espaillat (Wikimedia Commons)",
+          "license": "CC BY 3.0",
+          "alt": "Playa Dorada beach scene, Puerto Plata"
+        }
+      ]
+    },
+    {
+      "id": "bluebay-villas-doradas-puerto-plata",
+      "name": "BlueBay Villas Doradas - Adults Only",
+      "area_id": "puerto-plata",
+      "brand": "BlueBay Hotels",
+      "stars": 4,
+      "guest_rating": 8.3,
+      "price_per_night_usd": 175,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 4,
+      "num_pools": 3,
+      "num_rooms": 245,
+      "amenities": [
+        "Adults-only (18+)",
+        "Three pools (incl. swim-up bar and quiet pool)",
+        "Spa, sauna & fitness center",
+        "Beachfront on Playa Dorada",
+        "Golf course adjacent",
+        "A-la-carte themed restaurants",
+        "Evening entertainment & beach disco",
+        "Watersports (windsurf, sailing, diving)"
+      ],
+      "nearest_airport": "POP - Gregorio Luperon International Airport",
+      "airport_transfer_min": 20,
+      "lat": 19.7742,
+      "lng": -70.641,
+      "official_site": "https://www.bluebayhotels.com/en/hotels/dominican-republic/puerto-plata/bluebay-villas-doradas",
+      "summary": "A calm, mid-sized adults-only all-inclusive on Playa Dorada, popular for its quiet beach, garden villas and good-value romantic atmosphere.",
+      "description": "BlueBay Villas Doradas is an adults-only (18+) all-inclusive of around 245 rooms and suites spread through gardens beside the Playa Dorada golf course and beach. With three pool areas (including a swim-up bar pool and a quiet zone), four restaurants, a spa and evening entertainment including a beach disco, it appeals to couples and adults seeking a relaxed, lower-key alternative to the big family resorts. It is charming and tranquil, though the hardware is older and refurbishments have been gradual.",
+      "pros": [
+        "Adults-only calm and a notably quiet, soft-sand beach",
+        "Good value for a couples-focused all-inclusive",
+        "Pleasant low-rise garden setting next to the golf course",
+        "Friendly, attentive staff"
+      ],
+      "cons": [
+        "Rooms and suites feel dated despite refurbishments",
+        "Pools are on the smaller side",
+        "A-la-carte dining requires advance reservations",
+        "Limited nightlife beyond the in-house entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://www.bluebayhotels.com/images/hoteles/villas_doradas/cabecera/cabecera_2_desktop.webp",
+          "source": "https://www.bluebayhotels.com/en/hotels/dominican-republic/puerto-plata/bluebay-villas-doradas",
+          "credit": "BlueBay Hotels",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "BlueBay Villas Doradas resort grounds and pool, Playa Dorada"
+        },
+        {
+          "url": "https://www.bluebayhotels.com/images/hoteles/villas_doradas/servicios/servicios_villas_doradas-desktop-1920x305.webp",
+          "source": "https://www.bluebayhotels.com/en/hotels/dominican-republic/puerto-plata/bluebay-villas-doradas",
+          "credit": "BlueBay Hotels",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Services and facilities at BlueBay Villas Doradas adults-only resort"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg/1280px-Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Dorada,_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "credit": "Juan Espaillat (Wikimedia Commons)",
+          "license": "CC BY 3.0",
+          "alt": "Playa Dorada beach where BlueBay Villas Doradas is located"
+        }
+      ]
+    },
+    {
+      "id": "senator-puerto-plata-spa-resort",
+      "name": "Senator Puerto Plata Spa Resort",
+      "area_id": "puerto-plata",
+      "brand": "Senator Hotels & Resorts",
+      "stars": 5,
+      "guest_rating": 8,
+      "price_per_night_usd": 230,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 5,
+      "num_pools": 3,
+      "num_rooms": 567,
+      "amenities": [
+        "Senzia Spa & Wellness",
+        "Multiple pools with jacuzzis",
+        "Specialty restaurants, buffet & cafeteria",
+        "Kids club & family activities",
+        "Lush botanical gardens",
+        "Beachfront on Maimon Bay",
+        "Watersports & diving",
+        "Near Amber Cove cruise terminal"
+      ],
+      "nearest_airport": "POP - Gregorio Luperon International Airport",
+      "airport_transfer_min": 35,
+      "lat": 19.8285,
+      "lng": -70.779,
+      "official_site": "https://www.senatorhr.com/en/senator-puerto-plata-spa-resort/",
+      "summary": "A large, relatively modern five-star family all-inclusive on Maimon Bay near Amber Cove, with extensive gardens, multiple pools and varied dining.",
+      "description": "Senator Puerto Plata Spa Resort is one of the newer large-scale all-inclusives on the North Coast, set on a golden-sand beach in Bahia de Maimon close to the Amber Cove cruise port. Its 567 rooms, several specialty restaurants plus buffet and cafeteria, multiple pools with jacuzzis, a large Senzia spa and lush landscaped gardens make it a strong family and couples option that feels fresher than the older Playa Dorada stock. Its slightly more remote bay location is a trade-off for the upgraded, recently remodeled facilities.",
+      "pros": [
+        "Relatively modern hardware and attractive landscaped gardens",
+        "Wide beach on a calm bay near Amber Cove",
+        "Large spa and good pool facilities for families and couples",
+        "Walkable to the Amber Cove cruise promenade"
+      ],
+      "cons": [
+        "Set away from Playa Dorada/Sosua, so longer transfers and fewer nearby attractions",
+        "Big property can mean queues at the buffet and a-la-cartes",
+        "Some guests note inconsistent food quality",
+        "Beach can see seaweed depending on the season"
+      ],
+      "images": [
+        {
+          "url": "https://static-resources-elementor.mirai.com/wp-content/uploads/sites/638/hero-hotel-senator-puerto-playa-dkp.webp",
+          "source": "https://www.senatorhr.com/en/senator-puerto-plata-spa-resort/",
+          "credit": "Senator Hotels & Resorts",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Aerial view of Senator Puerto Plata Spa Resort and beach"
+        },
+        {
+          "url": "https://www.senatorpuertoplata.com/images/slides/slide-1.jpg",
+          "source": "https://www.senatorpuertoplata.com/",
+          "credit": "Senator Hotels & Resorts",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Senator Puerto Plata Spa Resort pool and grounds"
+        },
+        {
+          "url": "https://www.senatorpuertoplata.com/images/slides/slide-2.jpg",
+          "source": "https://www.senatorpuertoplata.com/",
+          "credit": "Senator Hotels & Resorts",
+          "license": "Official hotel media (used with attribution; verify reuse rights)",
+          "alt": "Beach and gardens at Senator Puerto Plata Spa Resort, Maimon Bay"
+        }
+      ]
+    },
+    {
+      "id": "sunscape-puerto-plata",
+      "name": "Sunscape Puerto Plata",
+      "area_id": "puerto-plata",
+      "brand": "Hyatt Inclusive Collection",
+      "stars": 4,
+      "guest_rating": 8,
+      "price_per_night_usd": 195,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 8,
+      "num_pools": 2,
+      "num_rooms": 585,
+      "amenities": [
+        "Two large pools (incl. kids' area)",
+        "Explorer's Club kids club & teens club",
+        "Six a-la-carte restaurants plus buffets",
+        "Spa",
+        "Sun Club upgraded section",
+        "Beachfront on Playa Dorada",
+        "Watersports & entertainment",
+        "Daily activity program"
+      ],
+      "nearest_airport": "POP - Gregorio Luperon International Airport",
+      "airport_transfer_min": 20,
+      "lat": 19.776,
+      "lng": -70.647,
+      "official_site": "https://www.hyattinclusivecollection.com/en/sunscape-resorts/resorts/dominican-republic/sunscape-puerto-plata-dominican-republic/",
+      "summary": "A big, value-focused family all-inclusive in Playa Dorada under the Hyatt Inclusive Collection, with two large pools, a kids club and eight dining venues.",
+      "description": "Sunscape Puerto Plata is a sprawling 585-room family all-inclusive in the gated Playa Dorada complex, part of Hyatt's Inclusive Collection. It leans into family value with two large pools (including a kids' area), an Explorer's Club kids club, a teens club, and eight dining venues ranging from buffets to Italian, Mexican, Brazilian and seafood. It is a dependable, activity-packed choice for families on a budget rather than a polished luxury resort.",
+      "pros": [
+        "Strong family value with kids and teens clubs",
+        "Lots of dining choice (eight venues)",
+        "Hyatt Inclusive Collection management and loyalty perks",
+        "Central Playa Dorada beachfront location"
+      ],
+      "cons": [
+        "No rooms have direct ocean views",
+        "Rooms and common areas can feel dated",
+        "Very large and busy, so service can be uneven at peak times",
+        "Premium experiences gated behind the Sun Club upgrade"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_Bay_-_panoramio_%283%29.jpg/1280px-Blue_Bay_-_panoramio_%283%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Blue_Bay_-_panoramio_(3).jpg",
+          "credit": "Fanny S Forsdik (Wikimedia Commons)",
+          "license": "CC BY-SA 3.0",
+          "alt": "Playa Dorada resort beach near Sunscape Puerto Plata"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Playa_Dorada_-_Puerto_Plata.jpg/1280px-Playa_Dorada_-_Puerto_Plata.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_Puerto_Plata.jpg",
+          "credit": "Max Bosio (Wikimedia Commons)",
+          "license": "CC BY 2.0",
+          "alt": "Golden-sand beach at Playa Dorada, Puerto Plata"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hotel_en_Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg/1280px-Hotel_en_Playa_Dorada%2C_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Hotel_en_Playa_Dorada,_Provincia_Puerto_Plata_-_panoramio.jpg",
+          "credit": "Juan Espaillat (Wikimedia Commons)",
+          "license": "CC BY 3.0",
+          "alt": "Resort in the Playa Dorada complex, Puerto Plata"
+        }
+      ]
+    },
+    {
+      "id": "sublime-samana-las-terrenas",
+      "name": "Sublime Samana Hotel & Residences",
+      "area_id": "samana",
+      "brand": "Independent",
+      "stars": 5,
+      "guest_rating": 8.9,
+      "price_per_night_usd": 320,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 2,
+      "num_pools": 2,
+      "num_rooms": 56,
+      "amenities": [
+        "Coconut Whispers Spa",
+        "Two outdoor pools",
+        "Beach club",
+        "Fitness center",
+        "Tennis court",
+        "Fully-equipped suites and villas",
+        "Free WiFi",
+        "Concierge"
+      ],
+      "nearest_airport": "AZS - Samana El Catey International Airport",
+      "airport_transfer_min": 55,
+      "lat": 19.272,
+      "lng": -69.401,
+      "official_site": "https://sublimesamana.com/",
+      "summary": "An intimate, European-styled luxury beachfront resort of suites and villas on quiet Playa Coson, and a member of Small Luxury Hotels of the World.",
+      "description": "Sublime Samana sits on the palm-fringed sands of Playa Coson, one of the most tranquil and scenic stretches near Las Terrenas, and its layout of one- to three-bedroom apartments and villas (each with a full kitchen and terrace) makes it feel more like a refined residential enclave than a big resort. The look is contemporary-tropical with bright white architecture, two pools, the well-regarded Coconut Whispers Spa and a relaxed beach club, all wrapped in the boutique, distinctly European atmosphere the peninsula is known for.",
+      "pros": [
+        "Spacious suites and villas with full kitchens, ideal for longer stays or families",
+        "Beautiful, calm setting on uncrowded Playa Coson",
+        "Highly rated Coconut Whispers Spa and attentive boutique service",
+        "Member of Small Luxury Hotels of the World"
+      ],
+      "cons": [
+        "Room-only/B&B model means dining options on-site are limited",
+        "Condo-style ownership can make housekeeping and upkeep inconsistent between units",
+        "Roughly an hour from AZS airport on winding roads",
+        "Quiet location requires a car or taxi to reach Las Terrenas nightlife"
+      ],
+      "images": [
+        {
+          "url": "https://sublimesamana.com/wp-content/uploads/2025/12/Casitas.jpg",
+          "source": "https://sublimesamana.com/",
+          "credit": "Sublime Samana Hotel & Residences (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Casita accommodation at Sublime Samana on Playa Coson, Las Terrenas"
+        },
+        {
+          "url": "https://sublimesamana.com/wp-content/uploads/2025/12/Rooftop-terrace.jpg",
+          "source": "https://sublimesamana.com/",
+          "credit": "Sublime Samana Hotel & Residences (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Rooftop terrace with sea views at Sublime Samana, Las Terrenas"
+        },
+        {
+          "url": "https://sublimesamana.com/wp-content/uploads/2025/12/Spa-and-Wellness.png",
+          "source": "https://sublimesamana.com/",
+          "credit": "Sublime Samana Hotel & Residences (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Coconut Whispers Spa and wellness area at Sublime Samana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Playa_Bonita_Beach%2C_Las_Terrenas%2C_Samana_Peninsula%2C_Dominican_Republic_%2852757385491%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bonita_Beach,_Las_Terrenas,_Samana_Peninsula,_Dominican_Republic_(52757385491).jpg",
+          "credit": "travelmag.com (Flickr)",
+          "license": "CC BY 2.0",
+          "alt": "Palm-lined beach near Las Terrenas on the Samana Peninsula"
+        }
+      ]
+    },
+    {
+      "id": "bahia-principe-escape-samana",
+      "name": "Bahia Principe Escape Samana (Adults Only)",
+      "area_id": "samana",
+      "brand": "Bahia Principe",
+      "stars": 5,
+      "guest_rating": 8.6,
+      "price_per_night_usd": 240,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 4,
+      "num_pools": 2,
+      "num_rooms": 149,
+      "amenities": [
+        "Adults-only all-inclusive",
+        "Private secluded beach",
+        "Spa and wellness center",
+        "Multiple a-la-carte restaurants",
+        "Butler service (select rooms)",
+        "Fitness center",
+        "Watersports and windsurfing",
+        "Evening entertainment"
+      ],
+      "nearest_airport": "AZS - Samana El Catey International Airport",
+      "airport_transfer_min": 75,
+      "lat": 19.235,
+      "lng": -69.273,
+      "official_site": "https://www.bahia-principe.com/en/dominican-republic/samana/resort-samana/",
+      "summary": "A secluded adults-only all-inclusive hideaway (formerly Grand Bahia Principe Samana) tucked into lush hillside above a private beach at Punta Balandra, now part of the Hyatt-affiliated Bahia Principe Escape collection.",
+      "description": "Bahia Principe Escape Samana is the peninsula's polished adults-only option, set on a green, secluded headland at Punta Balandra with a small private beach reached down landscaped terraces, and ocean views toward Cayo Levantado. With only about 150 rooms it stays intimate by all-inclusive standards, offering spacious ocean-view rooms, several a-la-carte restaurants, a spa, and the calm, couples-oriented vibe that fits Samana's quieter character. It is marketed under the Hyatt-affiliated Bahia Principe Escape brand and bookable through World of Hyatt.",
+      "pros": [
+        "Genuinely secluded, romantic adults-only setting with private beach",
+        "Smaller scale means more personal service than mega-resorts",
+        "Strong reviews and recurring Travelers' Choice recognition",
+        "Lush tropical grounds with sweeping bay views"
+      ],
+      "cons": [
+        "Extensive stairs and steep terrain throughout the property",
+        "Isolated location, over an hour from AZS and far from town",
+        "Small private beach compared to other peninsula resorts",
+        "Limited a-la-carte dinner allowances on the all-inclusive plan"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peninsula_De_Samana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Peninsula_De_Samana.jpg",
+          "credit": "Anthony Ramirez",
+          "license": "Public Domain",
+          "alt": "Aerial view of the green Samana Peninsula coastline"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Playa_Bonita_Beach%2C_Las_Terrenas%2C_Samana_Peninsula%2C_Dominican_Republic_%2852757385491%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bonita_Beach,_Las_Terrenas,_Samana_Peninsula,_Dominican_Republic_(52757385491).jpg",
+          "credit": "travelmag.com (Flickr)",
+          "license": "CC BY 2.0",
+          "alt": "Secluded palm-fringed Samana Peninsula beach"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Samana%2C_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Samana,_Dominican_Republic.jpg",
+          "credit": "galasmile (Flickr)",
+          "license": "CC BY-SA 2.0",
+          "alt": "Santa Barbara de Samana town near the resort"
+        }
+      ]
+    },
+    {
+      "id": "bahia-principe-explore-el-portillo",
+      "name": "Bahia Principe Explore El Portillo",
+      "area_id": "samana",
+      "brand": "Bahia Principe",
+      "stars": 5,
+      "guest_rating": 8,
+      "price_per_night_usd": 230,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 7,
+      "num_pools": 2,
+      "num_rooms": 606,
+      "amenities": [
+        "Free water park (Bahia Scout)",
+        "Kids club and mini-disco",
+        "Two outdoor pools with waterslide",
+        "Children's pool",
+        "Full-service spa",
+        "Multiple a-la-carte restaurants",
+        "Nightclub",
+        "Dive center and watersports (kayaking, sailing)"
+      ],
+      "nearest_airport": "AZS - Samana El Catey International Airport",
+      "airport_transfer_min": 45,
+      "lat": 19.314,
+      "lng": -69.495,
+      "official_site": "https://www.bahia-principe.com/en/dominican-republic/samana/resort-el-portillo/",
+      "summary": "The peninsula's big family all-inclusive on El Portillo beach near Las Terrenas (formerly Bahia Principe Grand El Portillo), with a free water park, kids club and seven restaurants spread across lush low-rise grounds.",
+      "description": "Bahia Principe Explore El Portillo, recently rebranded from Bahia Principe Grand El Portillo under the new Hyatt-affiliated Explore family-resort label, is the largest classic all-inclusive in the Las Terrenas area, with around 600 rooms set among gardens that run down to a long beach. It is firmly family-oriented: an included water park with slides, a children's pool, a mini club and evening mini-disco keep kids busy, while parents get seven restaurants, two pools, a spa and a dive center. It delivers the high-volume, activity-packed resort experience that is otherwise rare on this quieter peninsula.",
+      "pros": [
+        "Excellent for families with an included water park and full kids program",
+        "Closest of the major resorts to AZS airport (about 45 minutes)",
+        "Wide choice of dining with seven restaurants",
+        "Large beachfront grounds and good value all-inclusive pricing"
+      ],
+      "cons": [
+        "Some rooms and facilities feel dated",
+        "Large-resort scale lacks the boutique feel of the area",
+        "Sargassum can affect the beach in summer",
+        "Food quality is decent rather than gourmet"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Playa_Bonita_Beach%2C_Las_Terrenas%2C_Samana_Peninsula%2C_Dominican_Republic_%2852757385491%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bonita_Beach,_Las_Terrenas,_Samana_Peninsula,_Dominican_Republic_(52757385491).jpg",
+          "credit": "travelmag.com (Flickr)",
+          "license": "CC BY 2.0",
+          "alt": "Wide sandy beach near El Portillo and Las Terrenas"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peninsula_De_Samana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Peninsula_De_Samana.jpg",
+          "credit": "Anthony Ramirez",
+          "license": "Public Domain",
+          "alt": "Aerial view of the Samana Peninsula near Las Terrenas"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Samana%2C_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Samana,_Dominican_Republic.jpg",
+          "credit": "galasmile (Flickr)",
+          "license": "CC BY-SA 2.0",
+          "alt": "Town scene on the Samana Peninsula"
+        }
+      ]
+    },
+    {
+      "id": "viva-v-samana-by-wyndham",
+      "name": "Viva V Samana by Wyndham (Adults Only)",
+      "area_id": "samana",
+      "brand": "Wyndham",
+      "stars": 4,
+      "guest_rating": 8.2,
+      "price_per_night_usd": 280,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 4,
+      "num_pools": 1,
+      "num_rooms": 285,
+      "amenities": [
+        "Adults-only all-inclusive",
+        "Coconut Whispers Spa",
+        "Outdoor pool",
+        "Rooms with private plunge pools (select)",
+        "Tennis court",
+        "Unlimited a-la-carte dining (no reservations)",
+        "Beachfront bar",
+        "Watersports and fitness center"
+      ],
+      "nearest_airport": "AZS - Samana El Catey International Airport",
+      "airport_transfer_min": 25,
+      "lat": 19.327,
+      "lng": -69.521,
+      "official_site": "https://vivaresortsbywyndham.com/resorts/viva-v-samana-by-wyndham-las-terrenas-samana/",
+      "summary": "A lively adults-only all-inclusive on Bahia de Coson near Las Terrenas with eco-leaning, fun-focused vibes, plunge-pool rooms and a no-reservations dining concept.",
+      "description": "Viva V Samana by Wyndham (a Trademark Collection adults-only resort) is the peninsula's social, value-minded all-inclusive aimed at couples and groups of friends, set on more than a kilometer of Playa Coson beachfront. Its roughly 285 rooms include options with private plunge pools, and it leans into a relaxed, eco-conscious and at times party-friendly atmosphere with unlimited a-la-carte dining that needs no reservations, the Coconut Whispers Spa, tennis and watersports. It is a strong mid-range pick for travelers who want all-inclusive convenience without going fully luxury, and it sits unusually close to AZS airport (about 20-25 minutes).",
+      "pros": [
+        "Good-value adults-only all-inclusive with plunge-pool room options",
+        "Unlimited a-la-carte dining with no reservations needed",
+        "Fun, social, eco-leaning atmosphere good for couples and groups",
+        "Very close to AZS airport, about 20-25 minutes"
+      ],
+      "cons": [
+        "Only one main pool for the resort's size",
+        "Lively vibe is not ideal for guests wanting peace and quiet",
+        "Beach is broad but can see seasonal sargassum",
+        "Four-star fit-and-finish rather than true luxury"
+      ],
+      "images": [
+        {
+          "url": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/48677260428-ce2c6d4a56-k.jpg",
+          "source": "https://vivaresortsbywyndham.com/resorts/viva-v-samana-by-wyndham-las-terrenas-samana/",
+          "credit": "Viva Resorts by Wyndham (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Beach and resort grounds at Viva V Samana by Wyndham"
+        },
+        {
+          "url": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/v-room-samana.jpg",
+          "source": "https://vivaresortsbywyndham.com/resorts/viva-v-samana-by-wyndham-las-terrenas-samana/",
+          "credit": "Viva Resorts by Wyndham (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Guest room interior at Viva V Samana by Wyndham"
+        },
+        {
+          "url": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/vibe-room-pool-samana.jpg",
+          "source": "https://vivaresortsbywyndham.com/resorts/viva-v-samana-by-wyndham-las-terrenas-samana/",
+          "credit": "Viva Resorts by Wyndham (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Room with private plunge pool at Viva V Samana by Wyndham"
+        },
+        {
+          "url": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/47958954356-75522b8db0-k.jpg",
+          "source": "https://vivaresortsbywyndham.com/resorts/viva-v-samana-by-wyndham-las-terrenas-samana/",
+          "credit": "Viva Resorts by Wyndham (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Resort accommodation and gardens at Viva V Samana by Wyndham"
+        }
+      ]
+    },
+    {
+      "id": "hotel-alisei-las-terrenas",
+      "name": "Hotel Alisei Beachfront & Spa",
+      "area_id": "samana",
+      "brand": "Independent",
+      "stars": 4,
+      "guest_rating": 9,
+      "price_per_night_usd": 170,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 1,
+      "num_pools": 1,
+      "num_rooms": 54,
+      "amenities": [
+        "Beachfront location on Playa Las Ballenas",
+        "Alisei Spa with hammam and Vichy showers",
+        "Outdoor pool with swim-up bar",
+        "El Loro beach restaurant",
+        "Suites with kitchenettes",
+        "Tropical garden",
+        "Free WiFi",
+        "Beauty salon"
+      ],
+      "nearest_airport": "AZS - Samana El Catey International Airport",
+      "airport_transfer_min": 55,
+      "lat": 19.323,
+      "lng": -69.555,
+      "official_site": "https://aliseihotelspa.com/",
+      "summary": "A charming, well-priced boutique beachfront hotel of Caribbean-style suites right on Playa Las Ballenas, with a standout spa and an easy walk into Las Terrenas town.",
+      "description": "Hotel Alisei is the quintessential Las Terrenas boutique stay: 54 elegant, Caribbean-styled apartment-suites with hardwood furniture, kitchenettes and private terraces, set directly on the golden sand of Playa Las Ballenas. The hotel pairs a relaxed beach restaurant and garden pool with a genuinely good spa (hammam, Vichy showers, treatment rooms), and its in-town location means restaurants, bars and the lively heart of Las Terrenas are within walking distance.",
+      "pros": [
+        "Excellent location directly on Playa Las Ballenas and walkable to town",
+        "Strong guest ratings around 9/10 for value and service",
+        "Well-regarded spa with hammam and Vichy showers",
+        "Roomy suites with kitchenettes suit couples and families"
+      ],
+      "cons": [
+        "Only one on-site restaurant and limited evening entertainment",
+        "In-town beach is busier than the peninsula's secluded coves",
+        "Boutique scale means few resort-style facilities",
+        "Sargassum can occasionally reach the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Playa_Bonita_Beach%2C_Las_Terrenas%2C_Samana_Peninsula%2C_Dominican_Republic_%2852757385491%29.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Playa_Bonita_Beach,_Las_Terrenas,_Samana_Peninsula,_Dominican_Republic_(52757385491).jpg",
+          "credit": "travelmag.com (Flickr)",
+          "license": "CC BY 2.0",
+          "alt": "Golden-sand Las Terrenas beach near Hotel Alisei"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peninsula_De_Samana.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Peninsula_De_Samana.jpg",
+          "credit": "Anthony Ramirez",
+          "license": "Public Domain",
+          "alt": "Aerial view of the Samana Peninsula near Las Terrenas"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Samana%2C_Dominican_Republic.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Samana,_Dominican_Republic.jpg",
+          "credit": "galasmile (Flickr)",
+          "license": "CC BY-SA 2.0",
+          "alt": "Town scene near Las Terrenas on the Samana Peninsula"
+        }
+      ]
+    },
+    {
+      "id": "villa-serena-las-galeras",
+      "name": "Hotel Villa Serena",
+      "area_id": "samana",
+      "brand": "Independent",
+      "stars": 4,
+      "guest_rating": 9.1,
+      "price_per_night_usd": 150,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 1,
+      "num_pools": 1,
+      "num_rooms": 21,
+      "amenities": [
+        "Beachfront boutique setting in Las Galeras",
+        "Outdoor pool and tropical garden",
+        "Restaurant with local and international cuisine",
+        "Spa treatments",
+        "Complimentary kayaks and bicycles",
+        "Seaside yoga deck",
+        "Free WiFi and parking",
+        "Rooms with sea-view terraces and hammocks"
+      ],
+      "nearest_airport": "AZS - Samana El Catey International Airport",
+      "airport_transfer_min": 90,
+      "lat": 19.298,
+      "lng": -69.183,
+      "official_site": "https://www.villaserena.com/",
+      "summary": "A serene 21-room beachfront boutique hotel in the village of Las Galeras, the gateway to world-famous Playa Rincon, with garden cottages, hammocks and a barefoot, deeply relaxed feel.",
+      "description": "Hotel Villa Serena is a tranquil, individually-decorated boutique hotel set in a lush seaside garden in Las Galeras, at the eastern tip of the peninsula. Its 21 rooms each have a private sea-view balcony or terrace with hammocks and rocking chairs, and the property leans fully into slow travel: seaside yoga, free kayaks and bikes, a relaxed restaurant and an unhurried atmosphere. It is the ideal base for reaching Playa Rincon (a short boat ride or scenic drive away), consistently regarded as one of the Caribbean's most beautiful beaches.",
+      "pros": [
+        "Idyllic, peaceful beachfront garden setting with high (around 9/10) guest scores",
+        "Perfect launch point for Playa Rincon and Las Galeras nature",
+        "Genuine boutique character with sea-view terraces and hammocks",
+        "Free kayaks, bikes and seaside yoga"
+      ],
+      "cons": [
+        "Rooms are charming but basic; A/C may carry a small supplement",
+        "Remote location, around 90 minutes from AZS airport",
+        "Limited on-site dining and no large-resort amenities",
+        "A car or excursions needed to get around the area"
+      ],
+      "images": [
+        {
+          "url": "https://www.villaserena.com/wp-content/themes/villaserena/assets/img/gallery/villa-serena01.jpg.webp",
+          "source": "https://www.villaserena.com/",
+          "credit": "Hotel Villa Serena (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Beachfront garden and building at Hotel Villa Serena, Las Galeras"
+        },
+        {
+          "url": "https://www.villaserena.com/wp-content/themes/villaserena/assets/img/gallery/villa-serena03.jpg.webp",
+          "source": "https://www.villaserena.com/",
+          "credit": "Hotel Villa Serena (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Garden and pool area at Hotel Villa Serena"
+        },
+        {
+          "url": "https://www.villaserena.com/wp-content/themes/villaserena/assets/img/gallery/vs-gallery-terrace01.jpg.webp",
+          "source": "https://www.villaserena.com/",
+          "credit": "Hotel Villa Serena (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Sea-view terrace with hammock at Hotel Villa Serena"
+        },
+        {
+          "url": "https://www.villaserena.com/wp-content/themes/villaserena/assets/img/gallery/vs-gallery-rooms01n.jpg",
+          "source": "https://www.villaserena.com/",
+          "credit": "Hotel Villa Serena (official site)",
+          "license": "Official hotel media, used for editorial/illustrative purposes",
+          "alt": "Boutique guest room at Hotel Villa Serena, Las Galeras"
+        }
+      ]
+    },
+    {
+      "id": "casa-de-campo-resort-villas",
+      "name": "Casa de Campo Resort & Villas",
+      "area_id": "la-romana",
+      "brand": "Casa de Campo",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 520,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 9,
+      "num_pools": 4,
+      "num_rooms": 185,
+      "amenities": [
+        "Golf",
+        "Spa",
+        "Marina",
+        "Equestrian center",
+        "Private beach (Minitas Beach Club)",
+        "Polo & shooting center",
+        "Tennis & racquet center",
+        "Altos de Chavon cultural village",
+        "Multiple a-la-carte restaurants"
+      ],
+      "nearest_airport": "LRM - La Romana International Airport",
+      "airport_transfer_min": 10,
+      "lat": 18.4083,
+      "lng": -68.8908,
+      "official_site": "https://www.casadecampo.com.do/",
+      "summary": "A sprawling 7,000-acre luxury golf and villa resort that is the most prestigious address in La Romana, home to the famed Teeth of the Dog course.",
+      "description": "Casa de Campo is the grande dame of the Dominican southeast: a 7,000-acre private estate combining a hotel, luxury villas, three Pete Dye championship golf courses (including the world-ranked Teeth of the Dog), a marina, equestrian center, shooting range and the artisan village of Altos de Chavon. Rooms feature mahogany furnishings and private terraces, and the resort's Minitas Beach Club fronts a sheltered Caribbean cove. It is a polished, service-oriented retreat that draws golfers, families and well-heeled travelers rather than the all-inclusive party crowd. Note that it operates on a room-only or breakfast basis with most dining, golf and activities charged separately, so the true cost runs well above the headline rate. Its enormous footprint means you'll rely on a golf cart to get around.",
+      "pros": [
+        "World-class golf with three championship courses",
+        "Vast range of activities (marina, riding, shooting, tennis)",
+        "Just 10 minutes from La Romana airport",
+        "Polished service and spacious mahogany-trimmed rooms"
+      ],
+      "cons": [
+        "Not all-inclusive; dining, golf and activities cost extra and add up fast",
+        "Sprawling grounds require a golf cart to get around",
+        "Beach (Minitas) is small relative to the resort's size",
+        "Some hotel rooms feel dated compared with the villas"
+      ],
+      "images": [
+        {
+          "url": "https://www.casadecampo.com.do/wp-content/uploads/2026/01/Teeth-of-The-Dog-260.jpg",
+          "source": "https://www.casadecampo.com.do/",
+          "credit": "Casa de Campo Resort & Villas (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Teeth of the Dog oceanside golf course at Casa de Campo, La Romana"
+        },
+        {
+          "url": "https://www.casadecampo.com.do/wp-content/uploads/2019/07/altos-de-chavon-hillside.jpg",
+          "source": "https://www.casadecampo.com.do/",
+          "credit": "Casa de Campo Resort & Villas (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Altos de Chavon stone village overlooking the Chavon River at Casa de Campo"
+        },
+        {
+          "url": "https://www.casadecampo.com.do/wp-content/uploads/2025/07/z_Causa_7855.jpg",
+          "source": "https://www.casadecampo.com.do/",
+          "credit": "Casa de Campo Resort & Villas (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Causa restaurant dining at Casa de Campo Resort"
+        }
+      ]
+    },
+    {
+      "id": "dreams-dominicus-la-romana",
+      "name": "Dreams Dominicus La Romana",
+      "area_id": "la-romana",
+      "brand": "Hyatt",
+      "stars": 5,
+      "guest_rating": 8.6,
+      "price_per_night_usd": 340,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 9,
+      "num_pools": 4,
+      "num_rooms": 488,
+      "amenities": [
+        "Spa",
+        "Kids club (Explorer's Club)",
+        "Teens club (Core Zone)",
+        "Dive center (PADI)",
+        "Swim-up suites",
+        "Multiple a-la-carte restaurants",
+        "24-hour room service",
+        "Nightly entertainment",
+        "Preferred Club lounge"
+      ],
+      "nearest_airport": "LRM - La Romana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.3539,
+      "lng": -68.8275,
+      "official_site": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/dominican-republic/dominicus-la-romana/",
+      "summary": "An upscale Hyatt-managed beachfront all-inclusive on Bayahibe's powder-white sand, balancing family Explorer's Club fun with adults-oriented Preferred Club perks.",
+      "description": "Dreams Dominicus La Romana sits on a wide, calm stretch of Bayahibe beach about 20 minutes from La Romana airport, backed by lush tropical vegetation. Part of Hyatt's Inclusive Collection, it offers the brand's Unlimited-Luxury all-inclusive: multiple restaurants with no reservations required, a spa, PADI dive center, four pools and a strong kids' and teens' program, making it a genuine all-ages resort. Preferred Club guests get an upgraded lounge, beach area and swim-up suites. The Caribbean-side location means clearer, calmer water and superb sunsets compared with the Atlantic-facing Punta Cana resorts. It is large and can feel busy at peak times, and reaching the more distant suites involves a fair walk, but it is consistently well rated for food variety and beach quality.",
+      "pros": [
+        "Calm, clear Caribbean-side beach with great sunsets",
+        "Strong family programming plus adults-oriented Preferred Club",
+        "Multiple restaurants with no reservations needed",
+        "On-site spa and PADI dive center"
+      ],
+      "cons": [
+        "Large resort that can feel crowded at peak season",
+        "Some suites are a long walk from the beach and lobby",
+        "Sargassum can affect the beach in summer months",
+        "Premium experiences (steakhouse, spa) sit behind upsells"
+      ],
+      "images": [
+        {
+          "url": "https://www.dominicuslaromana.com/images/slides/slide-1.jpg",
+          "source": "https://www.dominicuslaromana.com/",
+          "credit": "Dreams Dominicus La Romana (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Beachfront and pool area at Dreams Dominicus La Romana, Bayahibe"
+        },
+        {
+          "url": "https://www.dominicuslaromana.com/images/slides/slide-2.jpg",
+          "source": "https://www.dominicuslaromana.com/",
+          "credit": "Dreams Dominicus La Romana (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Tropical grounds and pool at Dreams Dominicus La Romana"
+        },
+        {
+          "url": "https://www.dominicuslaromana.com/images/accommodations.jpg",
+          "source": "https://www.dominicuslaromana.com/",
+          "credit": "Dreams Dominicus La Romana (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Guest suite interior at Dreams Dominicus La Romana"
+        },
+        {
+          "url": "https://www.dominicuslaromana.com/images/restaurant.jpg",
+          "source": "https://www.dominicuslaromana.com/",
+          "credit": "Dreams Dominicus La Romana (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "A-la-carte restaurant dining at Dreams Dominicus La Romana"
+        }
+      ]
+    },
+    {
+      "id": "secrets-la-romana-resort-spa",
+      "name": "Secrets La Romana Resort & Spa",
+      "area_id": "la-romana",
+      "brand": "Hyatt",
+      "stars": 5,
+      "guest_rating": 8.7,
+      "price_per_night_usd": 360,
+      "board": "All-Inclusive",
+      "adults_only": true,
+      "family_friendly": false,
+      "beachfront": true,
+      "num_restaurants": 9,
+      "num_pools": 3,
+      "num_rooms": 356,
+      "amenities": [
+        "Adults-only",
+        "Spa (21,000 sq ft)",
+        "Swim-out rooms",
+        "Dive center",
+        "Multiple a-la-carte restaurants",
+        "Non-motorized watersports",
+        "Beachfront infinity pool",
+        "Fitness center",
+        "Nightly entertainment"
+      ],
+      "nearest_airport": "LRM - La Romana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.3548,
+      "lng": -68.8243,
+      "official_site": "https://www.hyattinclusivecollection.com/en/resorts-hotels/secrets/dominican-republic/la-romana-resort-spa/",
+      "summary": "The adults-only Bayahibe beachfront resort formerly branded Hilton La Romana, now Hyatt's Secrets La Romana: a calm, modern all-inclusive for couples with a large spa and swim-out rooms.",
+      "description": "Secrets La Romana Resort & Spa occupies the tranquil adults-only side of a large twin resort on Bayahibe beach, sharing grounds with a family-focused sister property (now Dreams La Romana) via covered walkways but reserving its own pools, restaurants and beach for guests 18 and over. The resort was formerly Hilton La Romana, an All-Inclusive Adult Only Resort, and rebranded under Hyatt's Secrets brand in June 2025 following Hyatt's acquisition of Playa Hotels & Resorts. A 2019 renovation brought a contemporary look with rainfall showers, free minibars and furnished terraces, some with swim-out access. Dining spans nine venues from Pan-Asian to seafood, and the 21,000-square-foot spa is among the largest in the region. The Caribbean-facing beach is calm and the vibe is relaxed rather than raucous, which suits couples seeking a quieter all-inclusive close to La Romana airport.",
+      "pros": [
+        "Adults-only calm with a couples-focused atmosphere",
+        "Large 21,000 sq ft spa and modern renovated rooms",
+        "Swim-out room options and a quiet beachfront",
+        "Hyatt Inclusive Collection Unlimited-Luxury service"
+      ],
+      "cons": [
+        "Shares grounds with a busy family resort",
+        "Sargassum can affect the beach in summer",
+        "Sprawling layout means some long walks",
+        "Restaurant reservations can be hard to secure at peak times"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2023_-_Bayah%C3%ADbe_-_01.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2023_-_Bayah%C3%ADbe_-_01.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Bayahibe beach near Secrets La Romana, Dominican Republic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bayah%C3%ADbe_beach_-_01.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bayah%C3%ADbe_beach_-_01.jpg",
+          "credit": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "alt": "Calm Caribbean water at Bayahibe beach, La Romana"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Atardecer_bayahibe.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Atardecer_bayahibe.jpg",
+          "credit": "Cochoncarlos",
+          "license": "CC BY-SA 4.0",
+          "alt": "Sunset over the sea at Bayahibe near La Romana"
+        }
+      ]
+    },
+    {
+      "id": "iberostar-selection-hacienda-dominicus",
+      "name": "Iberostar Selection Hacienda Dominicus",
+      "area_id": "la-romana",
+      "brand": "Iberostar",
+      "stars": 5,
+      "guest_rating": 8.5,
+      "price_per_night_usd": 300,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 6,
+      "num_pools": 3,
+      "num_rooms": 504,
+      "amenities": [
+        "Spa (Spa Sensations)",
+        "Kids club (Star Camp)",
+        "Dive center (Dressel Divers / PADI)",
+        "Coral reef nursery",
+        "Multiple a-la-carte restaurants",
+        "Nightly live entertainment",
+        "Non-motorized watersports",
+        "Iconic windmill lighthouse bar",
+        "Splash pool for kids"
+      ],
+      "nearest_airport": "LRM - La Romana International Airport",
+      "airport_transfer_min": 25,
+      "lat": 18.347,
+      "lng": -68.818,
+      "official_site": "https://www.iberostar.com/en/hotels/bayahibe/iberostar-selection-hacienda-dominicus/",
+      "summary": "A family-friendly, colonial-style all-inclusive on Dominicus beach known for its dive center, coral conservation program and landmark windmill bar.",
+      "description": "Iberostar Selection Hacienda Dominicus is a long-established 5-star all-inclusive set in colonial-style two-story buildings around landscaped courtyards on the gently sloping Dominicus beach. It is a favorite of divers thanks to the on-site Dressel Divers center, which runs PADI courses and trips to the St George shipwreck, Saona and Catalina, plus an in-water coral nursery as part of Iberostar's Wave of Change sustainability program. Families are well served by the Star Camp kids' program and a splash pool, while the iconic windmill-lighthouse bar is a signature sunset spot. The resort blends harmoniously into its gardens and has a relaxed, traditional feel; rooms and some facilities show their age in parts, but the beach, diving and entertainment keep loyal repeat guests coming back.",
+      "pros": [
+        "Excellent on-site dive center and coral conservation program",
+        "Attractive colonial architecture and mature gardens",
+        "Strong family entertainment and Star Camp kids' club",
+        "Blue Flag-quality Dominicus beach with calm water"
+      ],
+      "cons": [
+        "Some rooms and facilities feel dated",
+        "Buffet quality can be inconsistent at peak times",
+        "Sargassum possible in summer",
+        "Wi-Fi and a-la-carte reservations can be patchy"
+      ],
+      "images": [
+        {
+          "url": "https://www.iberostarhacienda.com/images/slides/slide-1.jpg",
+          "source": "https://www.iberostarhacienda.com/",
+          "credit": "Iberostar Selection Hacienda Dominicus (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Beach and grounds at Iberostar Selection Hacienda Dominicus, Bayahibe"
+        },
+        {
+          "url": "https://www.iberostarhacienda.com/images/slides/slide-2.jpg",
+          "source": "https://www.iberostarhacienda.com/",
+          "credit": "Iberostar Selection Hacienda Dominicus (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Pool and colonial architecture at Iberostar Hacienda Dominicus"
+        },
+        {
+          "url": "https://www.iberostarhacienda.com/images/accommodations.jpg",
+          "source": "https://www.iberostarhacienda.com/",
+          "credit": "Iberostar Selection Hacienda Dominicus (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Guest room at Iberostar Selection Hacienda Dominicus"
+        },
+        {
+          "url": "https://www.iberostarhacienda.com/images/restaurant.jpg",
+          "source": "https://www.iberostarhacienda.com/",
+          "credit": "Iberostar Selection Hacienda Dominicus (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Restaurant dining at Iberostar Selection Hacienda Dominicus"
+        }
+      ]
+    },
+    {
+      "id": "catalonia-bayahibe",
+      "name": "Catalonia Bayahibe",
+      "area_id": "la-romana",
+      "brand": "Catalonia Hotels & Resorts",
+      "stars": 4,
+      "guest_rating": 8.4,
+      "price_per_night_usd": 215,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 6,
+      "num_pools": 1,
+      "num_rooms": 415,
+      "amenities": [
+        "Blue Flag beach",
+        "Spa",
+        "Kids club",
+        "Themed a-la-carte restaurants",
+        "Large central pool with jacuzzi",
+        "Watersports",
+        "Nightly shows",
+        "Privileged upgraded package"
+      ],
+      "nearest_airport": "LRM - La Romana International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.3625,
+      "lng": -68.833,
+      "official_site": "https://www.cataloniahotels.com/en/hotel/catalonia-bayahibe",
+      "summary": "A relaxed, good-value all-inclusive set in villa-style buildings on a Blue Flag Bayahibe beach, popular with families and couples.",
+      "description": "Catalonia Bayahibe is a mid-range, well-priced all-inclusive on one of the Dominican Republic's few Blue Flag-certified beaches, surrounded by leafy tropical gardens just outside the fishing village of Bayahibe. Run by Spain's Catalonia Hotels & Resorts, the property has around 415 rooms in low-rise, two-story villas integrated into the landscape, with room types ranging from comfort and family rooms with bunk beds to romantic deluxe rooms; the optional Privileged package adds an exclusive beach area, preferential restaurant access and other perks. Facilities include a large central pool with separate children's and jacuzzi areas, a spa, six restaurants, watersports and nightly entertainment. It offers a calmer, less crowded alternative to Punta Cana at a friendly price, though the food and entertainment are solid rather than spectacular and the single main pool can get busy.",
+      "pros": [
+        "Excellent value on a Blue Flag-certified beach",
+        "Calm, low-rise villa layout in mature gardens",
+        "Family-friendly with bunk-bed rooms and kids' club",
+        "Close to Bayahibe village and boat trips to Saona/Catalina"
+      ],
+      "cons": [
+        "Only one main pool, which gets crowded",
+        "Food and entertainment are decent rather than standout",
+        "Some rooms feel dated",
+        "Sargassum can affect the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_uno/cloud-storage/images/2024-09/hero-27.jpg.webp",
+          "source": "https://www.cataloniahotels.com/en/hotel/catalonia-bayahibe",
+          "credit": "Catalonia Hotels & Resorts (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Pool and grounds at Catalonia Bayahibe resort"
+        },
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_uno/cloud-storage/images/2024-08/highlight-hotel-42.jpg.webp",
+          "source": "https://www.cataloniahotels.com/en/hotel/catalonia-bayahibe",
+          "credit": "Catalonia Hotels & Resorts (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Resort grounds and villas at Catalonia Bayahibe"
+        },
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_uno/cloud-storage/images/2024-05/bayahibe-playa-04.jpg.webp",
+          "source": "https://www.cataloniahotels.com/en/hotel/catalonia-bayahibe",
+          "credit": "Catalonia Hotels & Resorts (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Blue Flag Bayahibe beach at Catalonia Bayahibe"
+        }
+      ]
+    },
+    {
+      "id": "viva-dominicus-beach-wyndham",
+      "name": "Viva Dominicus Beach by Wyndham, A Trademark All Inclusive",
+      "area_id": "la-romana",
+      "brand": "Wyndham",
+      "stars": 4,
+      "guest_rating": 8.2,
+      "price_per_night_usd": 190,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 6,
+      "num_pools": 4,
+      "num_rooms": 712,
+      "amenities": [
+        "Seaside trapeze & circus school",
+        "Kids club",
+        "Climbing wall",
+        "Dive center",
+        "Tennis courts",
+        "Multiple a-la-carte restaurants",
+        "Nightly entertainment",
+        "Non-motorized watersports",
+        "Fitness center"
+      ],
+      "nearest_airport": "LRM - La Romana International Airport",
+      "airport_transfer_min": 25,
+      "lat": 18.349,
+      "lng": -68.8205,
+      "official_site": "https://www.wyndhamhotels.com/trademark/la-romana-dominican-republic/viva-dominicus-beach-a-trademark-all-inclusive/overview",
+      "summary": "A lively, activity-packed and great-value family all-inclusive on Dominicus beach, famous for its seaside trapeze and circus school.",
+      "description": "Viva Dominicus Beach by Wyndham is a large, energetic and budget-friendly all-inclusive spread along the white sand of Dominicus beach. Its standout feature is a packed activities program including a seaside trapeze and circus school, climbing wall, tennis, beach volleyball and a busy entertainment team, making it a hit with active families and younger travelers. There are four freshwater pools, six restaurants and access to spa services at the adjacent sister resort Viva Dominicus Palace. With 712 rooms it is one of the bigger and more affordable options in the area; rooms are simple and some are dated, and the high-energy, somewhat dated cruise-style vibe won't suit everyone, but for value, beach quality and non-stop activities it punches above its price.",
+      "pros": [
+        "Outstanding value for an all-inclusive beach resort",
+        "Huge range of activities including a seaside trapeze",
+        "Lovely white-sand Dominicus beach with calm water",
+        "Great for active families and younger travelers"
+      ],
+      "cons": [
+        "Rooms are basic and some feel dated",
+        "Large, busy resort with a high-energy, cruise-like vibe",
+        "Buffet variety can be limited at quieter times",
+        "Sargassum can affect the beach in summer"
+      ],
+      "images": [
+        {
+          "url": "https://www.vivadominicusbeachresort.com/images/slides/slide-1.jpg",
+          "source": "https://www.vivadominicusbeachresort.com/",
+          "credit": "Viva Dominicus Beach by Wyndham (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Beach and pool at Viva Dominicus Beach by Wyndham, Bayahibe"
+        },
+        {
+          "url": "https://www.vivadominicusbeachresort.com/images/slides/slide-2.jpg",
+          "source": "https://www.vivadominicusbeachresort.com/",
+          "credit": "Viva Dominicus Beach by Wyndham (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Pool and grounds at Viva Dominicus Beach by Wyndham"
+        },
+        {
+          "url": "https://www.vivadominicusbeachresort.com/images/accommodations.jpg",
+          "source": "https://www.vivadominicusbeachresort.com/",
+          "credit": "Viva Dominicus Beach by Wyndham (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Guest room at Viva Dominicus Beach by Wyndham"
+        },
+        {
+          "url": "https://www.vivadominicusbeachresort.com/images/restaurants.jpg",
+          "source": "https://www.vivadominicusbeachresort.com/",
+          "credit": "Viva Dominicus Beach by Wyndham (official site)",
+          "license": "Official resort media, used for editorial illustration",
+          "alt": "Restaurant at Viva Dominicus Beach by Wyndham"
+        }
+      ]
+    },
+    {
+      "id": "jw-marriott-santo-domingo",
+      "name": "JW Marriott Hotel Santo Domingo",
+      "area_id": "santo-domingo",
+      "brand": "Marriott",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 235,
+      "board": "Room Only",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 2,
+      "num_pools": 1,
+      "num_rooms": 150,
+      "amenities": [
+        "Spa",
+        "Rooftop infinity pool",
+        "24-hour fitness center",
+        "Executive lounge",
+        "Rooftop bar (Vertygo 101)",
+        "Connected to Blue Mall shopping center",
+        "Business center",
+        "Valet parking"
+      ],
+      "nearest_airport": "SDQ - Las Americas International Airport",
+      "airport_transfer_min": 35,
+      "lat": 18.4699,
+      "lng": -69.9387,
+      "official_site": "https://www.marriott.com/en-us/hotels/sdqjw-jw-marriott-hotel-santo-domingo/overview/",
+      "summary": "A polished 5-star business-and-leisure tower in the upscale Piantini district, directly connected to the Blue Mall shopping center.",
+      "description": "The JW Marriott Hotel Santo Domingo sits in the prestigious Piantini financial and shopping district, physically attached to the high-end Blue Mall, making it a favorite for business travelers and luxury shoppers rather than beach-seekers. Its 150 rooms are modern and generously sized, with floor-to-ceiling windows offering city views, and the rooftop pool deck, Vertygo 101 lounge, and on-site spa give it a contemporary, urban-resort feel. It is roughly a 15-minute drive from the Zona Colonial. While the location is excellent for dining and nightlife in the modern part of the city, it is not walkable to the historic core, so guests prioritizing the Colonial Zone should expect short taxi rides. Food and beverage are charged separately as it operates room-only, and rates run high for the city.",
+      "pros": [
+        "Excellent location in upscale Piantini, directly connected to Blue Mall",
+        "Modern, spacious rooms with great city views",
+        "Rooftop pool, spa, and well-regarded rooftop lounge",
+        "Consistent Marriott service and Bonvoy loyalty benefits"
+      ],
+      "cons": [
+        "Not within walking distance of the Zona Colonial (15-min drive)",
+        "Premium pricing relative to most Santo Domingo hotels",
+        "Room-only board means dining adds up quickly",
+        "Urban business-hotel vibe rather than a leisure resort"
+      ],
+      "images": [
+        {
+          "url": "https://www.colonialtours.com/images/1marriotGrande.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / JW Marriott Santo Domingo",
+          "license": "Promotional/editorial use",
+          "alt": "Exterior tower of the JW Marriott Hotel Santo Domingo in Piantini"
+        },
+        {
+          "url": "https://www.colonialtours.com/images/1marriotp5.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / JW Marriott Santo Domingo",
+          "license": "Promotional/editorial use",
+          "alt": "Guest room interior at JW Marriott Hotel Santo Domingo"
+        },
+        {
+          "url": "https://www.colonialtours.com/images/1marriotp2.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / JW Marriott Santo Domingo",
+          "license": "Promotional/editorial use",
+          "alt": "Lobby and public area at JW Marriott Hotel Santo Domingo"
+        },
+        {
+          "url": "https://www.colonialtours.com/images/1marriotp399.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / JW Marriott Santo Domingo",
+          "license": "Promotional/editorial use",
+          "alt": "Pool and amenities at JW Marriott Hotel Santo Domingo"
+        }
+      ]
+    },
+    {
+      "id": "el-embajador-royal-hideaway-santo-domingo",
+      "name": "El Embajador, a Royal Hideaway Hotel",
+      "area_id": "santo-domingo",
+      "brand": "Barcelo",
+      "stars": 5,
+      "guest_rating": 8.8,
+      "price_per_night_usd": 170,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 2,
+      "num_pools": 1,
+      "num_rooms": 298,
+      "amenities": [
+        "Spa (Bi Wellness)",
+        "Casino",
+        "Large outdoor pool",
+        "Extensive tropical gardens",
+        "Fitness center",
+        "Multiple restaurants and bars",
+        "Extensive meeting and event space",
+        "Sauna"
+      ],
+      "nearest_airport": "SDQ - Las Americas International Airport",
+      "airport_transfer_min": 35,
+      "lat": 18.4471,
+      "lng": -69.9412,
+      "official_site": "https://www.barcelo.com/en-us/el-embajador-a-royal-hideaway-hotel/",
+      "summary": "A historic 1950s landmark hotel set in lush gardens, restored by Barcelo's Royal Hideaway brand with a spa and casino.",
+      "description": "Opened in the 1950s as one of Santo Domingo's grand hotels, El Embajador is a mid-century landmark on Avenida Sarasota in the residential Bella Vista neighborhood, surrounded by some of the largest private tropical gardens in the city. After a full restoration under Barcelo's upscale Royal Hideaway banner, the property offers nearly 300 modern, soundproofed rooms, a large outdoor pool, a full wellness spa, and an on-site casino, all in a quiet residential pocket between the modern city and the Malecon. It carries genuine local prestige and offers far more grounds and resort-style amenities than the boutique hotels of the Colonial Zone. The trade-off is location: it is a drive (about 10-15 minutes) from both the Zona Colonial and the seafront, and the mid-century bones mean some public areas feel formal and dated despite the renovation.",
+      "pros": [
+        "Iconic, history-rich property with extensive tropical gardens",
+        "Large pool, full spa, and on-site casino",
+        "Spacious, quiet, soundproofed modern rooms",
+        "Strong value for a 5-star with full resort amenities"
+      ],
+      "cons": [
+        "Not walkable to the Zona Colonial or Malecon (short drive needed)",
+        "Mid-century architecture feels formal/dated to some guests",
+        "Large property can feel less personal than boutique options",
+        "Residential setting means fewer dining options right outside"
+      ],
+      "images": [
+        {
+          "url": "https://www.colonialtours.com/images/Occidental-El-Embajador-1A.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / El Embajador",
+          "license": "Promotional/editorial use",
+          "alt": "Exterior of El Embajador a Royal Hideaway Hotel in Santo Domingo"
+        },
+        {
+          "url": "https://www.colonialtours.com/images/Occidental-El-Embajador-9.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / El Embajador",
+          "license": "Promotional/editorial use",
+          "alt": "Tropical gardens and grounds at El Embajador Santo Domingo"
+        },
+        {
+          "url": "https://www.colonialtours.com/images/Occidental-El-Embajador-11.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / El Embajador",
+          "license": "Promotional/editorial use",
+          "alt": "Guest room at El Embajador a Royal Hideaway Hotel"
+        },
+        {
+          "url": "https://www.colonialtours.com/images/Occidental-El-Embajador-6.jpg",
+          "source": "colonialtours.com",
+          "credit": "Colonial Tours / El Embajador",
+          "license": "Promotional/editorial use",
+          "alt": "Restaurant and dining area at El Embajador Santo Domingo"
+        }
+      ]
+    },
+    {
+      "id": "catalonia-santo-domingo",
+      "name": "Catalonia Santo Domingo",
+      "area_id": "santo-domingo",
+      "brand": "Catalonia",
+      "stars": 5,
+      "guest_rating": 8.9,
+      "price_per_night_usd": 160,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 5,
+      "num_pools": 1,
+      "num_rooms": 228,
+      "amenities": [
+        "Casino",
+        "Rooftop ocean-view pool (7th floor)",
+        "Gym with panoramic views",
+        "Adults-only Premium Lounge (20th floor)",
+        "Multiple restaurants and bars",
+        "Spanish tapas bar",
+        "13 meeting rooms",
+        "24-hour reception"
+      ],
+      "nearest_airport": "SDQ - Las Americas International Airport",
+      "airport_transfer_min": 30,
+      "lat": 18.4612,
+      "lng": -69.9135,
+      "official_site": "https://www.cataloniahotels.com/en/hotel/catalonia-santo-domingo",
+      "summary": "A 21-story tower on the Malecon with Caribbean Sea views from every room, a casino, and a rooftop pool.",
+      "description": "Catalonia Santo Domingo is a modern 21-story tower set right on the Malecon (Avenida George Washington), giving all 228 rooms panoramic Caribbean Sea views and putting guests a short walk or drive from the Zona Colonial. It is one of the city's most amenity-rich hotels, with a large second-floor casino, a seventh-floor pool overlooking the sea, several restaurants and bars including a Spanish tapas bar, and an adults-only Premium Lounge on the 20th floor. The seafront location delivers sunsets and a lively boardwalk scene, though Santo Domingo's Malecon is an urban promenade rather than a swimmable beach. The high-rise format and busy public spaces suit travelers who want city energy, ocean views, and entertainment over an intimate stay.",
+      "pros": [
+        "Sea views from every room on a 21-story tower",
+        "Prime Malecon location, walkable toward Zona Colonial",
+        "Large casino and rooftop pool with sunset views",
+        "Multiple dining venues and an adults-only sky lounge"
+      ],
+      "cons": [
+        "On the Malecon promenade, not a swimmable beach",
+        "Busy, high-rise hotel can feel impersonal",
+        "Pool only open limited daytime hours",
+        "Some street/traffic noise from the avenue"
+      ],
+      "images": [
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_uno/cloud-storage/images/2024-09/hero-25.jpg.webp",
+          "source": "cataloniahotels.com",
+          "credit": "Catalonia Hotels & Resorts",
+          "license": "Official hotel media",
+          "alt": "Catalonia Santo Domingo tower hotel on the Malecon"
+        },
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_tres/cloud-storage/images/2024-09/santodomingo-ocean-view-01.jpg.webp",
+          "source": "cataloniahotels.com",
+          "credit": "Catalonia Hotels & Resorts",
+          "license": "Official hotel media",
+          "alt": "Caribbean Sea ocean view from a room at Catalonia Santo Domingo"
+        },
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_uno/cloud-storage/images/2024-04/santodomingo-piscina-04.jpg.webp",
+          "source": "cataloniahotels.com",
+          "credit": "Catalonia Hotels & Resorts",
+          "license": "Official hotel media",
+          "alt": "Seventh-floor rooftop ocean-view pool at Catalonia Santo Domingo"
+        },
+        {
+          "url": "https://images.cataloniahotels.com/styles/talla_tres/cloud-storage/images/2024-09/santodomingo-ocean-view-02.jpg.webp",
+          "source": "cataloniahotels.com",
+          "credit": "Catalonia Hotels & Resorts",
+          "license": "Official hotel media",
+          "alt": "Ocean-view guest room at Catalonia Santo Domingo on the Malecon"
+        }
+      ]
+    },
+    {
+      "id": "hodelpa-nicolas-de-ovando-mgallery",
+      "name": "Hodelpa Nicolas de Ovando - MGallery",
+      "area_id": "santo-domingo",
+      "brand": "Hodelpa",
+      "stars": 5,
+      "guest_rating": 8.6,
+      "price_per_night_usd": 165,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 2,
+      "num_pools": 1,
+      "num_rooms": 91,
+      "amenities": [
+        "Outdoor courtyard pool",
+        "Gym",
+        "Imperial Club lounge",
+        "Dominican restaurant (1502)",
+        "Mojito bar",
+        "Spa/massage services",
+        "Historic UNESCO-site building",
+        "Concierge"
+      ],
+      "nearest_airport": "SDQ - Las Americas International Airport",
+      "airport_transfer_min": 30,
+      "lat": 18.4768,
+      "lng": -69.8839,
+      "official_site": "https://www.hodelpa.com/EN/hodelpa-nicolas-de-ovando.html",
+      "summary": "A characterful 5-star hotel set in the restored 16th-century home of a colonial governor in the heart of the Zona Colonial.",
+      "description": "Hodelpa Nicolas de Ovando, part of Accor's MGallery collection, occupies the restored early-16th-century residence of governor Nicolas de Ovando on Calle Las Damas, the oldest paved street in the Americas, within the UNESCO-listed Colonial Zone. Its 91 rooms blend centuries-old stone walls and colonial architecture with contemporary comforts and L'Occitane amenities, and a tranquil courtyard pool framed by ancient walls is a rare find in the historic core. The location is unbeatable for history and culture, steps from the cathedral, Alcazar de Colon, and the riverfront, though the heritage building means some rooms are compact or have limited natural light, and views vary considerably by room category.",
+      "pros": [
+        "Unmatched historic setting on the Americas' oldest street",
+        "Steps from the cathedral, Alcazar de Colon, and Zona Colonial sights",
+        "Atmospheric courtyard pool within centuries-old stone walls",
+        "Refined MGallery service and L'Occitane amenities"
+      ],
+      "cons": [
+        "Some rooms are small or dark due to the heritage structure",
+        "Room quality and views vary a lot by category",
+        "No beach and limited resort-style amenities",
+        "Historic floors and layout mean uneven accessibility"
+      ],
+      "images": [
+        {
+          "url": "https://media.booking-channel.com/api/hotels/3222/images/282.jpeg",
+          "source": "hodelpa.com (booking-channel CDN)",
+          "credit": "Hodelpa Hotels",
+          "license": "Official hotel media",
+          "alt": "Courtyard pool framed by colonial stone walls at Hodelpa Nicolas de Ovando"
+        },
+        {
+          "url": "https://media.booking-channel.com/api/hotels/3222/images/29.jpeg",
+          "source": "hodelpa.com (booking-channel CDN)",
+          "credit": "Hodelpa Hotels",
+          "license": "Official hotel media",
+          "alt": "Historic interior at Hodelpa Nicolas de Ovando MGallery, Santo Domingo"
+        },
+        {
+          "url": "https://media.booking-channel.com/api/hotels/3222/images/30.jpeg",
+          "source": "hodelpa.com (booking-channel CDN)",
+          "credit": "Hodelpa Hotels",
+          "license": "Official hotel media",
+          "alt": "Colonial guest room at Hodelpa Nicolas de Ovando in the Zona Colonial"
+        },
+        {
+          "url": "https://media.booking-channel.com/api/hotels/3222/images/283.jpeg",
+          "source": "hodelpa.com (booking-channel CDN)",
+          "credit": "Hodelpa Hotels",
+          "license": "Official hotel media",
+          "alt": "Restored stone architecture and patio at Hodelpa Nicolas de Ovando MGallery"
+        }
+      ]
+    },
+    {
+      "id": "billini-hotel-historic-luxury",
+      "name": "Billini Hotel, Historic Luxury",
+      "area_id": "santo-domingo",
+      "brand": "Independent",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 190,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 2,
+      "num_pools": 1,
+      "num_rooms": 26,
+      "amenities": [
+        "Rooftop pool and bar with Colonial Zone views",
+        "Spa (Spa Billini)",
+        "Moon Restaurant & Bar",
+        "Castil Restaurant",
+        "In-room smart tech and free minibars",
+        "Private outdoor spaces in suites",
+        "Wedding and event facilities",
+        "Concierge"
+      ],
+      "nearest_airport": "SDQ - Las Americas International Airport",
+      "airport_transfer_min": 30,
+      "lat": 18.4731,
+      "lng": -69.8847,
+      "official_site": "https://www.billinihotel.com/",
+      "summary": "A design-forward boutique hotel of 26 suites in a restored 17th-century Colonial Zone building, topped by a rooftop pool.",
+      "description": "Billini Hotel is an avant-garde boutique property in the Zona Colonial that pairs original 17th-century architecture with sleek modern design across roughly two dozen suites plus an apartment and a villa. Intimate and stylish, it features a rooftop pool and bar (Moon Restaurant & Bar) with views over the colonial rooftops, a spa, and additional dining at the Castil Restaurant, and sits within easy walking distance of the cathedral and Calle El Conde shopping street. Its small scale delivers personalized service and a chic atmosphere that appeals to design-minded couples, though the rooftop pool keeps limited hours and the historic location means surrounding streets can be lively and noisy at night.",
+      "pros": [
+        "Stylish design blending modern interiors with 17th-century architecture",
+        "Rooftop pool and bar with Colonial Zone views",
+        "Intimate, personalized boutique service",
+        "Central walkable location near cathedral and El Conde"
+      ],
+      "cons": [
+        "Rooftop pool closes early (around 5 pm)",
+        "Small property with limited resort facilities",
+        "Lively Colonial Zone streets can be noisy at night",
+        "Premium rates for a compact suite-only hotel"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-cr1olkrairqtnleo1peq80tff/biblioteca.jpg?width=1920",
+          "source": "billinihotel.com",
+          "credit": "Billini Hotel",
+          "license": "Official hotel media",
+          "alt": "Library lounge interior at Billini Hotel in the Colonial Zone"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-a3tea6d4clsovo55lf5anbggo/masonry-1.jpg?width=960",
+          "source": "billinihotel.com",
+          "credit": "Billini Hotel",
+          "license": "Official hotel media",
+          "alt": "Design suite at Billini Hotel, Historic Luxury, Santo Domingo"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-1o9ki0orf47xit7ptpbl76128/masonry-2.jpg?width=960",
+          "source": "billinihotel.com",
+          "credit": "Billini Hotel",
+          "license": "Official hotel media",
+          "alt": "Interior detail at Billini Hotel in Santo Domingo"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-bcd63pmpn6tvukkboaj1mj26a/masonry-3.jpg?width=960",
+          "source": "billinihotel.com",
+          "credit": "Billini Hotel",
+          "license": "Official hotel media",
+          "alt": "Rooftop and architectural detail at Billini Hotel Colonial Zone"
+        }
+      ]
+    },
+    {
+      "id": "casas-del-xvi",
+      "name": "Casas del XVI",
+      "area_id": "santo-domingo",
+      "brand": "Independent",
+      "stars": 5,
+      "guest_rating": 9.4,
+      "price_per_night_usd": 280,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": false,
+      "beachfront": false,
+      "num_restaurants": 1,
+      "num_pools": 2,
+      "num_rooms": 10,
+      "amenities": [
+        "Private courtyard pools",
+        "Wellness/spa treatments with organic elements",
+        "Garden terraces and lounges",
+        "Personal butler (mayordomo) service",
+        "Private dining",
+        "Wedding and event spaces",
+        "Free WiFi",
+        "Concierge and experience coordination"
+      ],
+      "nearest_airport": "SDQ - Las Americas International Airport",
+      "airport_transfer_min": 30,
+      "lat": 18.4724,
+      "lng": -69.884,
+      "official_site": "https://casasdelxvi.com/en/",
+      "summary": "An ultra-intimate luxury hotel of 10 rooms spread across beautifully restored 16th-century houses in the Colonial Zone.",
+      "description": "Casas del XVI is a collection of meticulously restored 16th-century colonial homes in the heart of the Zona Colonial, unified into a single boutique hotel of just ten individually designed rooms across houses such as Casa de los Mapas, Casa Macoris, Casa del Disenador, and Casa del Arbol. A few steps from the Santo Domingo Cathedral and Parque Colon, it offers a residential, almost private-villa atmosphere with palm-shaded courtyards, small pools, organic wellness treatments, and attentive mayordomo (butler) service tailored to couples and discerning travelers. The dispersed-house layout and tiny room count make it one of the city's most exclusive and romantic stays; the flip side is that amenities are intentionally minimal, there is no single central lobby or restaurant, and the high nightly rate reflects the bespoke, intimate experience.",
+      "pros": [
+        "Exclusive, intimate experience across restored 16th-century houses",
+        "Steps from the cathedral and Parque Colon",
+        "Highly personalized concierge and butler service",
+        "Charming courtyards and private pools"
+      ],
+      "cons": [
+        "Very small with minimal hotel-style amenities",
+        "Houses are dispersed, so no central lobby or dining hub",
+        "High nightly rates for the room category",
+        "Not ideal for families or guests wanting full resort facilities"
+      ],
+      "images": [
+        {
+          "url": "https://casasdelxvi.com/wp-content/uploads/2023/11/events.jpg",
+          "source": "casasdelxvi.com",
+          "credit": "Casas del XVI",
+          "license": "Official hotel media",
+          "alt": "Restored colonial courtyard event space at Casas del XVI, Santo Domingo"
+        },
+        {
+          "url": "https://casasdelxvi.com/wp-content/uploads/2023/11/parque-colon.png",
+          "source": "casasdelxvi.com",
+          "credit": "Casas del XVI",
+          "license": "Official hotel media",
+          "alt": "Parque Colon near Casas del XVI in the Zona Colonial"
+        },
+        {
+          "url": "https://casasdelxvi.com/wp-content/uploads/2023/11/cono-Pleasure-of-Cigar.jpg",
+          "source": "casasdelxvi.com",
+          "credit": "Casas del XVI",
+          "license": "Official hotel media",
+          "alt": "Curated guest experience at Casas del XVI boutique hotel"
+        }
+      ]
+    },
+    {
+      "id": "casa-bonita-tropical-lodge-barahona",
+      "name": "Casa Bonita Tropical Lodge & Spa",
+      "area_id": "barahona",
+      "brand": "Independent",
+      "stars": 5,
+      "guest_rating": 9,
+      "price_per_night_usd": 300,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 1,
+      "num_pools": 2,
+      "num_rooms": 12,
+      "amenities": [
+        "Spa",
+        "Infinity pool",
+        "Farm-to-table restaurant",
+        "Ocean-view rooms",
+        "Organic garden",
+        "Yoga deck",
+        "Free Wi-Fi",
+        "Hiking trails"
+      ],
+      "nearest_airport": "BRX - Maria Montez International Airport",
+      "airport_transfer_min": 35,
+      "lat": 17.9325,
+      "lng": -71.1058,
+      "official_site": "https://www.casabonitadr.com/",
+      "summary": "A romantic, family-run cliffside eco-luxury boutique lodge with sweeping ocean and jungle views in the unspoiled southwest.",
+      "description": "Casa Bonita Tropical Lodge is a boutique retreat run by the third generation of the Schiffino family, perched on a forested hillside above the Caribbean at Km 17 Carretera de la Costa near La Cienaga, south of Barahona town. A member of Small Luxury Hotels of the World, it blends genuine eco credentials with refined comfort: palm-wood and wicker rooms, private balconies over the jungle, an infinity pool with sea views, and the Tanama Eco-Spa set among the trees beside a river. The Las Canas restaurant serves modern Dominican farm-to-table cuisine using produce from the on-site organic garden and the local community.",
+      "pros": [
+        "Stunning ocean and rainforest views from an infinity-pool setting",
+        "Genuine farm-to-table dining and eco-conscious ethos",
+        "Intimate, personal service from a long-standing family owner",
+        "Excellent base for Bahia de las Aguilas, Larimar mines and waterfalls"
+      ],
+      "cons": [
+        "Not beachfront - the sea is a drive or steep walk away",
+        "Premium pricing for a remote, rural region",
+        "Limited on-site nightlife and dining variety",
+        "Hilly terrain and steps can be challenging for some guests"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "alt": "Turquoise Caribbean waters of the southwest coast accessible from the lodge"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach_Barahona_2001.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Beach_Barahona_2001.jpg",
+          "credit": "Kaihsu Tai / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Lush coastline near Casa Bonita Tropical Lodge on the southwest Barahona coast"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/After_Golden_SunSet_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:After_Golden_SunSet_-_panoramio.jpg",
+          "credit": "Panoramio contributor / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Dramatic Barahona coastline at sunset near the lodge"
+        }
+      ]
+    },
+    {
+      "id": "hotel-el-quemaito-barahona",
+      "name": "Hotel El Quemaito - Luxury Oceanfront Retreat",
+      "area_id": "barahona",
+      "brand": "Independent",
+      "stars": 3,
+      "guest_rating": 8.2,
+      "price_per_night_usd": 125,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 1,
+      "num_pools": 2,
+      "num_rooms": 24,
+      "amenities": [
+        "Oceanfront pool",
+        "Private beach area",
+        "Restaurant (Caribbean, French, Italian)",
+        "Garden",
+        "Free Wi-Fi",
+        "Free parking",
+        "Sea-view rooms",
+        "Terrace"
+      ],
+      "nearest_airport": "BRX - Maria Montez International Airport",
+      "airport_transfer_min": 25,
+      "lat": 18.1183,
+      "lng": -71.1019,
+      "official_site": "https://www.hotelelquemaito.com/",
+      "summary": "A clifftop oceanfront retreat at Juan Esteban with two sea-view pools and a relaxed European-influenced restaurant.",
+      "description": "Hotel El Quemaito sits on a low cliff at Juan Esteban Km 10, just south of Barahona town, offering 24 sea-view rooms and two in-ground pools that look out over the Caribbean. The restaurant mixes Caribbean, French and Italian cooking and serves a daily continental breakfast, giving the property a quiet, European-run guesthouse feel. It is a practical, good-value oceanfront base for exploring the Larimar coast, San Rafael's river-fed beach, and trips toward Bahia de las Aguilas.",
+      "pros": [
+        "Direct oceanfront setting with two clifftop pools",
+        "Good value for a sea-view retreat in the southwest",
+        "Quiet, peaceful atmosphere close to Barahona town",
+        "Restaurant with French and Italian options, not just local fare"
+      ],
+      "cons": [
+        "Rocky shoreline - the 'beach' is for views, not easy swimming",
+        "Rooms and decor are simple rather than truly luxurious",
+        "Limited dining and entertainment options nearby",
+        "Wi-Fi and service can be patchy in this remote region"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach_Barahona_2001.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Beach_Barahona_2001.jpg",
+          "credit": "Kaihsu Tai / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Rocky oceanfront coastline typical of the El Quemaito stretch near Barahona"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/After_Golden_SunSet_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:After_Golden_SunSet_-_panoramio.jpg",
+          "credit": "Panoramio contributor / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Caribbean sunset over the Barahona coast near Hotel El Quemaito"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "alt": "Caribbean waters of the southwest coast reachable from the hotel"
+        }
+      ]
+    },
+    {
+      "id": "hotel-costa-larimar-barahona",
+      "name": "Hotel Costa Larimar",
+      "area_id": "barahona",
+      "brand": "Independent",
+      "stars": 3,
+      "guest_rating": 7.4,
+      "price_per_night_usd": 85,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 1,
+      "num_pools": 2,
+      "num_rooms": 108,
+      "amenities": [
+        "Adult and children's pools",
+        "Pool bar",
+        "Open-air restaurant",
+        "Beachfront location",
+        "Conference rooms",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "24/7 parking and security"
+      ],
+      "nearest_airport": "BRX - Maria Montez International Airport",
+      "airport_transfer_min": 15,
+      "lat": 18.2003,
+      "lng": -71.0986,
+      "official_site": "https://www.tripadvisor.com/Hotel_Review-g317143-d572428-Reviews-Hotel_Costa_Larimar-Barahona_Barahona_Province_Dominican_Republic.html",
+      "summary": "The largest conventional beach hotel in Barahona town, a practical full-service family and business base on the Caribbean shore.",
+      "description": "Hotel Costa Larimar is Barahona's biggest mainstream hotel, with 108 rooms right on the shore of the Caribbean on Avenida Enriquillo, a short walk from Central Park and the malecon. It offers two pools (one for adults, one for children), a pool bar, an open-air international restaurant, and conference facilities, making it popular with both families and business and group travelers. It is functional and well located rather than glamorous - a reliable city-edge beach base for touring the southwest.",
+      "pros": [
+        "Central beachfront location walkable to Barahona town and malecon",
+        "Largest property in town with full hotel services and two pools",
+        "Family-friendly with a dedicated children's pool",
+        "Affordable rates and easy airport access"
+      ],
+      "cons": [
+        "Dated decor and rooms that feel tired in places",
+        "Rocky/coarse town beach better for views than swimming",
+        "Lower Tripadvisor ranking reflects inconsistent upkeep",
+        "Can feel busy when hosting groups and conferences"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Barahona_71.16445W_18.21020N.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Barahona_71.16445W_18.21020N.jpg",
+          "credit": "Wikimedia Commons contributor",
+          "license": "CC BY-SA 3.0",
+          "alt": "Barahona town and coastline near Hotel Costa Larimar"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach_Barahona_2001.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Beach_Barahona_2001.jpg",
+          "credit": "Kaihsu Tai / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Caribbean shoreline at Barahona along Avenida Enriquillo"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "alt": "Southwest Dominican Republic beaches reachable on day trips from the hotel"
+        }
+      ]
+    },
+    {
+      "id": "hotel-playazul-barahona",
+      "name": "Hotel Playazul",
+      "area_id": "barahona",
+      "brand": "Independent",
+      "stars": 3,
+      "guest_rating": 8,
+      "price_per_night_usd": 75,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 1,
+      "num_pools": 1,
+      "num_rooms": 20,
+      "amenities": [
+        "Clifftop pool",
+        "Ocean-view rooms",
+        "Restaurant",
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Sun terrace",
+        "Private beach"
+      ],
+      "nearest_airport": "BRX - Maria Montez International Airport",
+      "airport_transfer_min": 20,
+      "lat": 18.1564,
+      "lng": -71.1006,
+      "official_site": "https://hotel-playazul.comcaribbean.com/",
+      "summary": "A small, well-loved clifftop hotel with knockout ocean views, a pool and warm service south of Barahona town.",
+      "description": "Hotel Playazul is an intimate clifftop property on the coastal road about 7 km south of Barahona, prized by guests for its dramatic ocean views, clean spacious rooms, attentive service and a pool that is a favorite afternoon spot. It has around 20 rooms across standard, family and superior categories, all air-conditioned with cable TV and safes. The trade-off of the cliff location is that swimming is mainly at the pool and the small private beach below, with the views the main draw.",
+      "pros": [
+        "Spectacular ocean views from the clifftop and pool",
+        "Clean, spacious rooms and notably warm, personal service",
+        "Great value with free breakfast included",
+        "Quiet, relaxed atmosphere away from crowds"
+      ],
+      "cons": [
+        "Limited swimming - mainly the pool and a small beach cove",
+        "Small property with limited facilities and dining",
+        "Remote setting means you need a car or tours to explore",
+        "Basic amenities compared with full resorts"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/After_Golden_SunSet_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:After_Golden_SunSet_-_panoramio.jpg",
+          "credit": "Panoramio contributor / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Clifftop coastline and sunset south of Barahona near Hotel Playazul"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach_Barahona_2001.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Beach_Barahona_2001.jpg",
+          "credit": "Kaihsu Tai / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Caribbean shoreline typical of the Playazul clifftop setting"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "alt": "Turquoise southwest coast water near the hotel"
+        }
+      ]
+    },
+    {
+      "id": "platon-ecolodge-paraiso-barahona",
+      "name": "Platon Ecolodge (Rancho Platon)",
+      "area_id": "barahona",
+      "brand": "Independent",
+      "stars": 3,
+      "guest_rating": 8.9,
+      "price_per_night_usd": 200,
+      "board": "All-Inclusive",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": false,
+      "num_restaurants": 1,
+      "num_pools": 1,
+      "num_rooms": 9,
+      "amenities": [
+        "Natural pool",
+        "River tubing",
+        "Hiking and waterfalls",
+        "Horse riding",
+        "Restaurant and bar",
+        "Tree-house rooms",
+        "Outdoor fireplace",
+        "Children's playground",
+        "Games room"
+      ],
+      "nearest_airport": "BRX - Maria Montez International Airport",
+      "airport_transfer_min": 75,
+      "lat": 18.0153,
+      "lng": -71.2089,
+      "official_site": "https://www.platondr.com/",
+      "summary": "A remote mountain eco-lodge above Paraiso with tree-house cabins, waterfalls and river tubing deep in the forest.",
+      "description": "Platon Ecolodge, also known as Rancho Platon, is a boutique eco-lodge set in the mountains above the town of Paraiso, roughly 38 km from Barahona, with around 9 rooms spread across four lodges among trees, waterfalls and natural pools. Activities are nature-first: river tubing, hiking to waterfalls, horse riding, and relaxing by a natural swimming pool surrounded by cacao farms and forest. It is genuinely off-grid - reaching it requires a 4x4 or a pickup from town - which is part of its appeal for travelers seeking immersive eco-tourism.",
+      "pros": [
+        "Immersive, authentic forest and waterfall setting",
+        "Strong eco-tourism activities: tubing, hiking, horse riding",
+        "Excellent guest ratings and tranquil, unplugged atmosphere",
+        "Unique tree-house and lodge-style accommodation"
+      ],
+      "cons": [
+        "Very remote - requires a 4x4 or hotel pickup to reach",
+        "Far from Barahona town and the coast (about an hour)",
+        "Limited rooms book out and prices are high for the region",
+        "Rustic facilities and variable connectivity/electricity"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/After_Golden_SunSet_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:After_Golden_SunSet_-_panoramio.jpg",
+          "credit": "Panoramio contributor / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Mountainous Barahona Province landscape surrounding the eco-lodge"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach_Barahona_2001.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Beach_Barahona_2001.jpg",
+          "credit": "Kaihsu Tai / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Coastal scenery of the wider Barahona region near the lodge"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "alt": "Turquoise southwest coast scenery in the Barahona region"
+        }
+      ]
+    },
+    {
+      "id": "hotel-la-saladilla-beach-club-barahona",
+      "name": "Hotel La Saladilla Beach Club",
+      "area_id": "barahona",
+      "brand": "Independent",
+      "stars": 4,
+      "guest_rating": 7.6,
+      "price_per_night_usd": 95,
+      "board": "Bed & Breakfast",
+      "adults_only": false,
+      "family_friendly": true,
+      "beachfront": true,
+      "num_restaurants": 1,
+      "num_pools": 1,
+      "num_rooms": 8,
+      "amenities": [
+        "Beachfront location",
+        "Outdoor pool",
+        "Hot tub",
+        "Sea-view suites",
+        "Restaurant",
+        "Free Wi-Fi",
+        "Private terraces",
+        "Daily housekeeping"
+      ],
+      "nearest_airport": "BRX - Maria Montez International Airport",
+      "airport_transfer_min": 15,
+      "lat": 18.1742,
+      "lng": -71.0992,
+      "official_site": "http://www.hotellasaladilla.com/en",
+      "summary": "An intimate 8-room beachfront boutique club on Saladilla Beach with a pool, hot tub and sea-view suites.",
+      "description": "Hotel La Saladilla Beach Club is a small, privacy-focused 8-room property set right on Saladilla Beach south of Barahona, with a white-sand cove and coral reef offshore. Rooms and suites feature sea views, flat-screen TVs and spacious terraces, and the property adds an outdoor pool and a hot tub plus an on-site restaurant praised for quality food. The intimate scale is the appeal, though guests should know the beach is small and not ideal for swimming, and reviews on cleanliness can be mixed.",
+      "pros": [
+        "Direct beachfront location on a quiet white-sand cove",
+        "Intimate, private boutique scale with only 8 rooms",
+        "Spacious sea-view suites with terraces and a hot tub",
+        "Restaurant earns praise for authentic, high-quality food"
+      ],
+      "cons": [
+        "Small beach not ideal for swimming",
+        "Mixed reviews on pool and bathroom cleanliness",
+        "Very few rooms and limited facilities",
+        "Remote location requires a car for getting around"
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bahia_de_las_Aguilas_beach.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_beach.jpg",
+          "credit": "Jordina Collell Cortacans / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "alt": "White-sand beach cove typical of the southwest coast near Hotel La Saladilla Beach Club"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach_Barahona_2001.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Beach_Barahona_2001.jpg",
+          "credit": "Kaihsu Tai / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Barahona coastline near the beach club"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/After_Golden_SunSet_-_panoramio.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:After_Golden_SunSet_-_panoramio.jpg",
+          "credit": "Panoramio contributor / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "alt": "Sunset over the Barahona coast reachable from the hotel"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-23"
+}

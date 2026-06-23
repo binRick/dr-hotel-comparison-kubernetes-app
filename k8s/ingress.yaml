@@ -1,0 +1,23 @@
+# OPTIONAL — only for clusters that have an ingress controller (nginx-ingress,
+# Traefik, etc.). Not applied by kustomization.yaml. The default exposure is the
+# dr-web NodePort (30080), which needs no controller.
+#
+#   kubectl apply -f k8s/ingress.yaml
+#
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: dr
+  namespace: dr
+spec:
+  rules:
+    - host: dr.local
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: dr-web
+                port:
+                  number: 80

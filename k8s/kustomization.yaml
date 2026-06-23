@@ -1,0 +1,13 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+namespace: dr
+resources:
+  - namespace.yaml
+  - deployment.yaml      # dr-api  (Go API)
+  - service.yaml         # dr-api  (ClusterIP)
+  - web-deployment.yaml  # dr-web  (nginx: static + /api proxy)
+  - web-service.yaml     # dr-web  (NodePort 30080 — app entry point)
+  - hpa.yaml             # autoscales dr-api on CPU
+# ingress.yaml is optional (needs an ingress controller) — apply it separately.
+# The dr-seed ConfigMap is generated from backend/data/seed.json (see Makefile /
+# deploy/build-and-load.sh) so data updates don't require editing manifests.

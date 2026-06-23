@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DR Hotels — Compare Top Resorts in the Dominican Republic</title>
+  <meta name="description" content="Browse and filter the top hotels and resorts across the Dominican Republic by area, board, price, rating, adults-only and more.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="dr.css">
+</head>
+<body data-page="hotels">
+  <nav id="subnav">
+    <a href="index.html">Overview</a>
+    <a href="areas.html">Areas</a>
+    <a href="hotels.html">Hotels</a>
+    <a href="compare.html">Compare</a>
+    <a href="match.html">Find your match</a>
+  </nav>
+
+  <main id="main" class="wrap">
+    <section class="section">
+      <h1 style="margin:1.4rem 0 .2rem">Hotels across the Dominican Republic</h1>
+      <p class="sub" id="count">Loading…</p>
+      <div class="controls">
+        <label class="control">Area
+          <select id="f-area"><option value="">All areas</option></select>
+        </label>
+        <label class="control">Board
+          <select id="f-board">
+            <option value="">Any board</option>
+            <option value="All-Inclusive">All-Inclusive</option>
+            <option value="Bed &amp; Breakfast">Bed &amp; Breakfast</option>
+            <option value="Room Only">Room Only</option>
+          </select>
+        </label>
+        <label class="control">Max price/night
+          <input type="number" id="f-maxprice" min="0" step="25" placeholder="$ any">
+        </label>
+        <label class="control">Sort by
+          <select id="f-sort">
+            <option value="rating">Guest rating</option>
+            <option value="price">Price (low→high)</option>
+            <option value="price_desc">Price (high→low)</option>
+            <option value="stars">Stars</option>
+            <option value="name">Name</option>
+          </select>
+        </label>
+        <label class="toggle"><input type="checkbox" id="f-adults"> Adults-only</label>
+        <label class="toggle"><input type="checkbox" id="f-family"> Family</label>
+        <label class="toggle"><input type="checkbox" id="f-beach"> Beachfront</label>
+      </div>
+      <div class="grid" id="hotels"><div class="spinner"></div></div>
+    </section>
+  </main>
+
+  <footer class="foot wrap"><strong>dr.ximg.app</strong> · Go API on Kubernetes (k3s)</footer>
+  <script src="app.js?v=1"></script>
+</body>
+</html>

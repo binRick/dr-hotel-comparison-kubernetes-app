@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DR Areas — Compare Regions of the Dominican Republic</title>
+  <meta name="description" content="Compare the regions of the Dominican Republic: Punta Cana, Cap Cana, Puerto Plata, Samaná, La Romana, Santo Domingo and Barahona.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="dr.css">
+</head>
+<body data-page="areas">
+  <nav id="subnav">
+    <a href="index.html">Overview</a>
+    <a href="areas.html">Areas</a>
+    <a href="hotels.html">Hotels</a>
+    <a href="compare.html">Compare</a>
+    <a href="match.html">Find your match</a>
+  </nav>
+
+  <main id="main" class="wrap">
+    <section class="section">
+      <h1 style="margin:1.4rem 0 .2rem">Areas of the Dominican Republic</h1>
+      <p class="sub">Add any two or more areas to compare them side by side.</p>
+      <div class="controls">
+        <label class="control">Sort by
+          <select id="sort">
+            <option value="name">Name</option>
+            <option value="price">Avg price</option>
+            <option value="beach">Beaches</option>
+            <option value="nature">Nature</option>
+            <option value="nightlife">Nightlife</option>
+          </select>
+        </label>
+      </div>
+      <div class="grid" id="areas"><div class="spinner"></div></div>
+    </section>
+  </main>
+
+  <footer class="foot wrap"><strong>dr.ximg.app</strong> · Go API on Kubernetes (k3s)</footer>
+  <script src="app.js?v=1"></script>
+</body>
+</html>

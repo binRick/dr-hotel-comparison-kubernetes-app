@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dominican Republic Hotel &amp; Area Comparison</title>
+  <meta name="description" content="Compare Dominican Republic regions and the top hotels in each — beaches, sargassum, nightlife, value and more, side by side. Kubernetes-backed.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="dr.css">
+</head>
+<body data-page="index">
+  <nav id="subnav">
+    <a href="index.html">Overview</a>
+    <a href="areas.html">Areas</a>
+    <a href="hotels.html">Hotels</a>
+    <a href="compare.html">Compare</a>
+    <a href="match.html">Find your match</a>
+  </nav>
+
+  <header class="hero wrap">
+    <div class="flag">🇩🇴</div>
+    <h1>Find your perfect corner of the <span class="grad">Dominican Republic</span></h1>
+    <p>The same country gives you all-inclusive Punta Cana, whale-watching Samaná, and wild Barahona. Compare areas and the best hotels in each — side by side.</p>
+    <div class="btn-row">
+      <a class="btn primary" href="match.html">Find your match →</a>
+      <a class="btn" href="areas.html">Browse areas</a>
+      <a class="btn coral" href="hotels.html">Browse hotels</a>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <section class="section">
+      <h2>The lay of the land</h2>
+      <p class="sub">Seven distinct areas across the island — tap a marker to explore.</p>
+      <div class="mapwrap" id="map"><div class="spinner"></div></div>
+    </section>
+
+    <section class="section">
+      <h2>Compare areas</h2>
+      <p class="sub" id="areas-sub">Loading…</p>
+      <div class="grid" id="areas"><div class="spinner"></div></div>
+    </section>
+  </main>
+
+  <footer class="foot wrap">Data gathered from public sources · photos credited on each page · <strong>dr.ximg.app</strong> · Go API on Kubernetes (k3s)</footer>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>

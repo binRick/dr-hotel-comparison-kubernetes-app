@@ -40,6 +40,44 @@ minikube) with **no external dependencies**.
 |---|---|---|
 | [![Area](docs/screenshots/area.jpg)](docs/screenshots/area.jpg) | [![Hotels](docs/screenshots/hotels.jpg)](docs/screenshots/hotels.jpg) | [![Match](docs/screenshots/match.jpg)](docs/screenshots/match.jpg) |
 
+## How it works (user flow)
+
+From the visitor's side there are three ways in — browse **areas**, browse
+**hotels**, or take the **Find Your Match** quiz — which all funnel into detail
+pages and a compare tray. Every step is a small call to the Go API:
+
+```mermaid
+flowchart TD
+    V([👤 Visitor lands on dr.ximg.app]) --> H[🏝️ Home — hero and interactive DR map]
+
+    H -->|explore regions| A[📍 Areas]
+    H -->|browse stays| HO[🏨 Hotels]
+    H -->|take the quiz| M[🎯 Find Your Match]
+
+    A -->|"GET /api/areas"| AL[Area cards: region, price, sargassum risk]
+    AL -->|"pick one — GET /api/areas/:id"| AD[Area guide: scores, highlights, photos, and its hotels]
+
+    HO -->|"GET /api/hotels?area,board,price,adults_only,beachfront,rating,sort"| HL[Filtered hotel grid]
+    HL -->|"open one — GET /api/hotels/:id"| HD[Hotel page: specs, amenities, gallery, pros and cons]
+    AD --> HD
+
+    M -->|"slide what matters — POST /api/score"| R[Ranked areas plus top hotels for you]
+    R --> AD
+
+    AD -->|➕ Compare| T
+    HD -->|➕ Compare| T[(🧺 Compare tray — saved in your browser)]
+    R -->|➕ Compare| T
+    T -->|"GET /api/compare?type and ids"| C[Side-by-side comparison table]
+
+    classDef screen fill:#0b202c,stroke:#15c8b8,color:#e9f3f4;
+    classDef tray fill:#10303a,stroke:#ff8a5c,color:#e9f3f4;
+    class H,A,HO,M,AL,AD,HL,HD,R,C screen;
+    class T tray;
+```
+
+The frontend is plain vanilla JS, the compare tray lives in `localStorage`, and
+every screen above is a `fetch` to `/api/*` answered by the Go pods.
+
 ## A real Kubernetes app — not a container in a trench coat
 
 This isn't a single image behind a port. It uses the core k8s primitives the way a
@@ -57,15 +95,50 @@ production service would:
 | **Resource‑bounded** | CPU/memory requests + limits on every container, sized for a small node. |
 | **Declarative + portable** | Plain manifests via **kustomize**; **multi‑arch** (amd64/arm64) images. Runs on any conformant cluster, not just the reference host. |
 
+```mermaid
+flowchart LR
+    U([👤 Browser]) -->|HTTPS dr.ximg.app| NX[ximg nginx<br/>TLS + reverse proxy]
+    subgraph NS["k3s — namespace dr"]
+      direction TB
+      SW{{Service dr-web<br/>NodePort 30080}} --> DW[Deployment dr-web<br/>nginx x2]
+      DW -->|serves static| FE[frontend<br/>HTML, JS, photos]
+      DW -->|"proxies /api"| SA{{Service dr-api<br/>ClusterIP}}
+      SA --> DA[Deployment dr-api<br/>Go x2]
+      CM[(ConfigMap dr-seed)] -. mounts .-> DA
+      HPA[[HPA · CPU target 70 · 2 to 5]] -. scales .-> DA
+      MS[metrics-server] -. CPU .-> HPA
+    end
+    NX -->|host gateway 30080| SW
+    classDef svc fill:#0e3a44,stroke:#15c8b8,color:#eafcff;
+    classDef dep fill:#0b202c,stroke:#15c8b8,color:#e9f3f4;
+    classDef store fill:#10303a,stroke:#ff8a5c,color:#e9f3f4;
+    class SW,SA svc;
+    class DW,DA dep;
+    class CM,HPA,MS store;
 ```
-            ┌──────────────────── Kubernetes namespace: dr ─────────────────────┐
- Browser ──▶│  Service dr-web  (NodePort 30080)                                  │
-            │      └─ Deployment dr-web  · nginx ×2                               │
-            │            ├─ /          → static frontend (vanilla JS + photos)   │
-            │            └─ /api/*      → Service dr-api (ClusterIP)              │
-            │                                └─ Deployment dr-api · Go ×2 + HPA   │
-            │                                      └─ seed.json via ConfigMap     │
-            └────────────────────────────────────────────────────────────────────┘
+
+### Request lifecycle
+
+What happens when you open a page and it loads data:
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor U as Browser
+    participant NX as ximg nginx
+    participant Web as dr-web · nginx
+    participant API as dr-api · Go
+    U->>NX: GET https://dr.ximg.app/hotels.html
+    NX->>Web: proxy to NodePort 30080
+    Web-->>U: HTML + app.js + photos (static files)
+    Note over U: app.js runs and fetches data
+    U->>NX: GET /api/hotels?area=samana&sort=price
+    NX->>Web: proxy to NodePort 30080
+    Web->>API: proxy /api to http://dr-api (ClusterIP)
+    API->>API: filter + score from in-memory seed
+    API-->>Web: JSON
+    Web-->>U: JSON
+    Note over U: render cards and comparison
 ```
 
 ## The data
@@ -104,6 +177,20 @@ Samaná & Las Terrenas, La Romana & Bayahíbe, Santo Domingo, and Barahona**.
 
 `backend/data/seed.raw.json` keeps the original source URLs for provenance; rerun
 the photo pipeline any time with `python3 scripts/integrate.py`.
+
+```mermaid
+flowchart TD
+    AG[["~21 research agents<br/>areas + top hotels"]] -->|find| RAW[(seed.raw.json<br/>external image URLs)]
+    AG -->|adversarial fact-check| RAW
+    RAW --> INT[scripts/integrate.py]
+    INT -->|download + downscale via sips| IMG[/frontend/images<br/>165 self-hosted photos/]
+    INT -->|rewrite to local paths| SEED[(backend/data/seed.json<br/>7 areas · 42 hotels)]
+    SEED --> CM[(ConfigMap dr-seed)]
+    CM --> API[dr-api serves /api/*]
+    IMG --> WEB[dr-web serves /images/*]
+    classDef store fill:#10303a,stroke:#ff8a5c,color:#e9f3f4;
+    class RAW,SEED,CM store;
+```
 
 > Data and photos are gathered from public sources for a demonstration/educational
 > project; hotel details and prices are approximate and not booking‑accurate.
@@ -171,6 +258,20 @@ Registry:
 ```
 ghcr.io/binrick/dr-api:<version>   ghcr.io/binrick/dr-api:latest
 ghcr.io/binrick/dr-web:<version>   ghcr.io/binrick/dr-web:latest
+```
+
+```mermaid
+flowchart LR
+    DEV([git tag v*]) --> GH[GitHub Actions<br/>release.yml]
+    GH --> BX[setup-qemu + buildx]
+    BX --> B1[build dr-api<br/>cross-compiled Go]
+    BX --> B2[build dr-web<br/>nginx + frontend]
+    B1 --> P[push multi-arch<br/>amd64 + arm64]
+    B2 --> P
+    P --> GHCR[(ghcr.io/binrick<br/>dr-api · dr-web<br/>:version · :latest)]
+    GHCR -.->|kubectl set image| K8S[k8s rollout]
+    classDef store fill:#10303a,stroke:#ff8a5c,color:#e9f3f4;
+    class GHCR store;
 ```
 
 Deploy straight from the registry — no local build:

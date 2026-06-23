@@ -1,9 +1,13 @@
 # ── build ────────────────────────────────────────────────────────────────────
-FROM golang:1.23-alpine AS build
+# Cross-compile: the build stage runs natively on the builder's platform and
+# targets TARGETOS/TARGETARCH (set by buildx), so multi-arch builds stay fast.
+FROM --platform=$BUILDPLATFORM golang:1.23-alpine AS build
+ARG TARGETOS TARGETARCH
 WORKDIR /src
 COPY . .
 # Pure stdlib, no modules to download. Static binary for a scratch image.
-RUN CGO_ENABLED=0 GOOS=linux go build -trimpath -ldflags="-s -w" -o /dr-api .
+RUN CGO_ENABLED=0 GOOS=${TARGETOS:-linux} GOARCH=${TARGETARCH} \
+    go build -trimpath -ldflags="-s -w" -o /dr-api .
 
 # ── run ──────────────────────────────────────────────────────────────────────
 FROM scratch

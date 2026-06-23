@@ -1,5 +1,8 @@
 # 🇩🇴 Dominican Republic Hotel & Area Comparison
 
+[![Release images](https://github.com/binRick/dr-hotel-comparison-kubernetes-app/actions/workflows/release.yml/badge.svg)](https://github.com/binRick/dr-hotel-comparison-kubernetes-app/actions/workflows/release.yml)
+[![CI](https://github.com/binRick/dr-hotel-comparison-kubernetes-app/actions/workflows/ci.yml/badge.svg)](https://github.com/binRick/dr-hotel-comparison-kubernetes-app/actions/workflows/ci.yml)
+
 A self-contained, **Kubernetes-native** web app for comparing the regions of the
 Dominican Republic — **Punta Cana, Cap Cana, Puerto Plata, Samaná, La Romana,
 Santo Domingo, Barahona** — and the top hotels within each, side by side and via
@@ -86,6 +89,31 @@ curl -s localhost:8080/api/score -X POST \
   -d '{"type":"area","weights":{"beach":3,"nature":2,"low_sargassum":2}}' | jq '.results[0].area.name'
 # → "Samaná & Las Terrenas"
 ```
+
+## Container images
+
+Tagging a release (`git tag v0.1.0 && git push --tags`) runs
+[`.github/workflows/release.yml`](.github/workflows/release.yml), which builds
+both images for **linux/amd64 + linux/arm64** and pushes them to GitHub
+Container Registry:
+
+```
+ghcr.io/binrick/dr-api:<version>   ghcr.io/binrick/dr-api:latest
+ghcr.io/binrick/dr-web:<version>   ghcr.io/binrick/dr-web:latest
+```
+
+Deploy straight from the registry — no local build needed:
+
+```bash
+kubectl apply -f k8s/namespace.yaml
+kubectl -n dr create configmap dr-seed --from-file=seed.json=backend/data/seed.json
+kubectl apply -k k8s
+kubectl -n dr set image deploy/dr-api dr-api=ghcr.io/binrick/dr-api:latest
+kubectl -n dr set image deploy/dr-web dr-web=ghcr.io/binrick/dr-web:latest
+```
+
+(First publish: make the two packages public under the repo's *Packages* settings
+if you want anonymous pulls.)
 
 ## Project layout
 
